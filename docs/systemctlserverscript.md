@@ -6,6 +6,8 @@
 
 服务程序文件放在 `/opt/svr/sample` 位置，不管风吹雨打程序必须得在运行状态。
 
+1. 创建服务配置脚本 `/usr/lib/systemd/system/smaple.service`
+
 ```service
 [Unit]
 Description=sample APP
@@ -23,6 +25,31 @@ RestartSec=5
 [Install]
 WantedBy=multi-user.target
 ```
+
+2. 脚本配置完成执行，`sudo systemctl daemon-reload` 重现加载   
+3. 启动服务  `sudo systemctl start sample.service`
+4. OK  
+
+
+
+## 服务管理
+
+完成service脚本编写后，需要执行以下命令以重载生效：
+
+**重新加载所有的systemd服务** 
+
+```sh
+sudo systemctl daemon-reload
+```
+
+# 管理服务 
+
+[使能开启启动|启动|停止|重启|查看状态]
+
+```sh
+sudo systemctl [enable|start|stop|restart|status] xxx.service
+```
+
 
 
 ## 服务脚本路径
