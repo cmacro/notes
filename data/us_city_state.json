@@ -1,0 +1,2263 @@
+[
+    {
+        "phoneCode": "201",
+        "city": "Jersey City",
+        "cstate": "新泽西州",
+        "state": "New Jersey",
+        "ansi": "NJ"
+    },
+    {
+        "phoneCode": "202",
+        "city": "District of Columbia",
+        "cstate": "华盛顿特区",
+        "state": "Washington",
+        "ansi": "DC"
+    },
+    {
+        "phoneCode": "203",
+        "city": "Bridgeport",
+        "cstate": "康涅狄格州",
+        "state": "Connecticut",
+        "ansi": "CT"
+    },
+    {
+        "phoneCode": "205",
+        "city": "Birmingham",
+        "cstate": "阿拉巴马州",
+        "state": "Alabama",
+        "ansi": "AL"
+    },
+    {
+        "phoneCode": "206",
+        "city": "Seattle",
+        "cstate": "华盛顿州",
+        "state": "Washington",
+        "ansi": "WA"
+    },
+    {
+        "phoneCode": "207",
+        "city": "Portland",
+        "cstate": "缅因州",
+        "state": "Maine",
+        "ansi": "ME"
+    },
+    {
+        "phoneCode": "208",
+        "city": "Boise City",
+        "cstate": "爱华达州",
+        "state": "Idaho",
+        "ansi": "ID"
+    },
+    {
+        "phoneCode": "209",
+        "city": "Stockton",
+        "cstate": "加利福尼亚州",
+        "state": "California",
+        "ansi": "CA"
+    },
+    {
+        "phoneCode": "210",
+        "city": "San Antonio",
+        "cstate": "德克萨斯州",
+        "state": "Texas",
+        "ansi": "TX"
+    },
+    {
+        "phoneCode": "212",
+        "city": "New York",
+        "cstate": "纽约州",
+        "state": "New York",
+        "ansi": "NY"
+    },
+    {
+        "phoneCode": "213",
+        "city": "Los Angeles",
+        "cstate": "加利福尼亚州",
+        "state": "California",
+        "ansi": "CA"
+    },
+    {
+        "phoneCode": "214",
+        "city": "Dallas",
+        "cstate": "德克萨斯州",
+        "state": "Texas",
+        "ansi": "TX"
+    },
+    {
+        "phoneCode": "215",
+        "city": "Philadelphia",
+        "cstate": "宾夕法尼亚州",
+        "state": "Pennsylvania",
+        "ansi": "PA"
+    },
+    {
+        "phoneCode": "216",
+        "city": "Cleveland",
+        "cstate": "俄亥俄州",
+        "state": "Ohio",
+        "ansi": "OH"
+    },
+    {
+        "phoneCode": "217",
+        "city": "Springfield",
+        "cstate": "伊利诺伊州",
+        "state": "Illinois",
+        "ansi": "IL"
+    },
+    {
+        "phoneCode": "218",
+        "city": "Duluth",
+        "cstate": "明尼苏达州",
+        "state": "Minnesota",
+        "ansi": "MN"
+    },
+    {
+        "phoneCode": "219",
+        "city": "Hammond",
+        "cstate": "印第安那州",
+        "state": "Indiana",
+        "ansi": "IN"
+    },
+    {
+        "phoneCode": "220",
+        "city": "Newark",
+        "cstate": "俄亥俄州",
+        "state": "Ohio",
+        "ansi": "OH"
+    },
+    {
+        "phoneCode": "223",
+        "city": "Lancaster",
+        "cstate": "宾夕法尼亚州",
+        "state": "Pennsylvania",
+        "ansi": "PA"
+    },
+    {
+        "phoneCode": "224",
+        "city": "Elgin",
+        "cstate": "伊利诺伊州",
+        "state": "Illinois",
+        "ansi": "IL"
+    },
+    {
+        "phoneCode": "225",
+        "city": "Baton Rouge",
+        "cstate": "路易斯安那州",
+        "state": "Louisiana",
+        "ansi": "LA"
+    },
+    {
+        "phoneCode": "228",
+        "city": "Gulfport",
+        "cstate": "密西西比州",
+        "state": "Mississippi",
+        "ansi": "MS"
+    },
+    {
+        "phoneCode": "229",
+        "city": "Albany",
+        "cstate": "乔治亚州",
+        "state": "Georgia",
+        "ansi": "GA"
+    },
+    {
+        "phoneCode": "231",
+        "city": "Muskegon",
+        "cstate": "密歇根州",
+        "state": "Michigan",
+        "ansi": "MI"
+    },
+    {
+        "phoneCode": "234",
+        "city": "Akron",
+        "cstate": "俄亥俄州",
+        "state": "Ohio",
+        "ansi": "OH"
+    },
+    {
+        "phoneCode": "239",
+        "city": "Cape Coral",
+        "cstate": "佛罗里达州",
+        "state": "Florida",
+        "ansi": "FL"
+    },
+    {
+        "phoneCode": "240",
+        "city": "Germantown",
+        "cstate": "马里兰州",
+        "state": "Maryland",
+        "ansi": "MD"
+    },
+    {
+        "phoneCode": "248",
+        "city": "Troy",
+        "cstate": "密歇根州",
+        "state": "Michigan",
+        "ansi": "MI"
+    },
+    {
+        "phoneCode": "251",
+        "city": "Mobile",
+        "cstate": "阿拉巴马州",
+        "state": "Alabama",
+        "ansi": "AL"
+    },
+    {
+        "phoneCode": "252",
+        "city": "Greenville",
+        "cstate": "北卡罗来纳州",
+        "state": "North Carolina",
+        "ansi": "NC"
+    },
+    {
+        "phoneCode": "253",
+        "city": "Tacoma",
+        "cstate": "华盛顿州",
+        "state": "Washington",
+        "ansi": "WA"
+    },
+    {
+        "phoneCode": "254",
+        "city": "Killeen",
+        "cstate": "德克萨斯州",
+        "state": "Texas",
+        "ansi": "TX"
+    },
+    {
+        "phoneCode": "256",
+        "city": "Huntsville",
+        "cstate": "阿拉巴马州",
+        "state": "Alabama",
+        "ansi": "AL"
+    },
+    {
+        "phoneCode": "260",
+        "city": "Fort Wayne",
+        "cstate": "印第安那州",
+        "state": "Indiana",
+        "ansi": "IN"
+    },
+    {
+        "phoneCode": "262",
+        "city": "Kenosha",
+        "cstate": "威斯康辛州",
+        "state": "Wisconsin",
+        "ansi": "WI"
+    },
+    {
+        "phoneCode": "267",
+        "city": "Philadelphia",
+        "cstate": "宾夕法尼亚州",
+        "state": "Pennsylvania",
+        "ansi": "PA"
+    },
+    {
+        "phoneCode": "269",
+        "city": "Kalamazoo",
+        "cstate": "密歇根州",
+        "state": "Michigan",
+        "ansi": "MI"
+    },
+    {
+        "phoneCode": "270",
+        "city": "Bowling Green",
+        "cstate": "肯塔基州",
+        "state": "Kentucky",
+        "ansi": "KY"
+    },
+    {
+        "phoneCode": "272",
+        "city": "Scranton",
+        "cstate": "宾夕法尼亚州",
+        "state": "Pennsylvania",
+        "ansi": "PA"
+    },
+    {
+        "phoneCode": "276",
+        "city": "Bristol",
+        "cstate": "弗吉尼亚州",
+        "state": "Virginia",
+        "ansi": "VA"
+    },
+    {
+        "phoneCode": "279",
+        "city": "Sacramento",
+        "cstate": "加利福尼亚州",
+        "state": "California",
+        "ansi": "CA"
+    },
+    {
+        "phoneCode": "281",
+        "city": "Houston",
+        "cstate": "德克萨斯州",
+        "state": "Texas",
+        "ansi": "TX"
+    },
+    {
+        "phoneCode": "301",
+        "city": "Germantown",
+        "cstate": "马里兰州",
+        "state": "Maryland",
+        "ansi": "MD"
+    },
+    {
+        "phoneCode": "302",
+        "city": "Wilmington",
+        "cstate": "特拉华州",
+        "state": "Delaware",
+        "ansi": "DE"
+    },
+    {
+        "phoneCode": "303",
+        "city": "Denver",
+        "cstate": "科罗拉多州",
+        "state": "Colorado",
+        "ansi": "CO"
+    },
+    {
+        "phoneCode": "304",
+        "city": "Charleston",
+        "cstate": "西弗吉尼亚州",
+        "state": "West Virginia",
+        "ansi": "WV"
+    },
+    {
+        "phoneCode": "305",
+        "city": "Miami",
+        "cstate": "佛罗里达州",
+        "state": "Florida",
+        "ansi": "FL"
+    },
+    {
+        "phoneCode": "307",
+        "city": "Cheyenne",
+        "cstate": "怀俄明州",
+        "state": "Wyoming",
+        "ansi": "WY"
+    },
+    {
+        "phoneCode": "308",
+        "city": "Grand Island",
+        "cstate": "内布拉斯加州",
+        "state": "Nebraska",
+        "ansi": "NE"
+    },
+    {
+        "phoneCode": "309",
+        "city": "Peoria",
+        "cstate": "伊利诺伊州",
+        "state": "Illinois",
+        "ansi": "IL"
+    },
+    {
+        "phoneCode": "310",
+        "city": "Los Angeles",
+        "cstate": "加利福尼亚州",
+        "state": "California",
+        "ansi": "CA"
+    },
+    {
+        "phoneCode": "312",
+        "city": "Chicago",
+        "cstate": "伊利诺伊州",
+        "state": "Illinois",
+        "ansi": "IL"
+    },
+    {
+        "phoneCode": "313",
+        "city": "Detroit",
+        "cstate": "密歇根州",
+        "state": "Michigan",
+        "ansi": "MI"
+    },
+    {
+        "phoneCode": "314",
+        "city": "St. Louis",
+        "cstate": "密苏里州",
+        "state": "Missouri",
+        "ansi": "MO"
+    },
+    {
+        "phoneCode": "315",
+        "city": "Syracuse",
+        "cstate": "纽约州",
+        "state": "New York",
+        "ansi": "NY"
+    },
+    {
+        "phoneCode": "316",
+        "city": "Wichita",
+        "cstate": "阿肯色州",
+        "state": "Arkansas",
+        "ansi": "AR"
+    },
+    {
+        "phoneCode": "317",
+        "city": "Indianapolis",
+        "cstate": "印第安那州",
+        "state": "Indiana",
+        "ansi": "IN"
+    },
+    {
+        "phoneCode": "318",
+        "city": "Shreveport",
+        "cstate": "路易斯安那州",
+        "state": "Louisiana",
+        "ansi": "LA"
+    },
+    {
+        "phoneCode": "319",
+        "city": "Cedar Rapids",
+        "cstate": "爱荷华州",
+        "state": "Iowa",
+        "ansi": "IA"
+    },
+    {
+        "phoneCode": "320",
+        "city": "St. Cloud",
+        "cstate": "明尼苏达州",
+        "state": "Minnesota",
+        "ansi": "MN"
+    },
+    {
+        "phoneCode": "321",
+        "city": "Orlando",
+        "cstate": "佛罗里达州",
+        "state": "Florida",
+        "ansi": "FL"
+    },
+    {
+        "phoneCode": "323",
+        "city": "Los Angeles",
+        "cstate": "加利福尼亚州",
+        "state": "California",
+        "ansi": "CA"
+    },
+    {
+        "phoneCode": "325",
+        "city": "Abilene",
+        "cstate": "德克萨斯州",
+        "state": "Texas",
+        "ansi": "TX"
+    },
+    {
+        "phoneCode": "330",
+        "city": "Akron",
+        "cstate": "俄亥俄州",
+        "state": "Ohio",
+        "ansi": "OH"
+    },
+    {
+        "phoneCode": "331",
+        "city": "Aurora",
+        "cstate": "伊利诺伊州",
+        "state": "Illinois",
+        "ansi": "IL"
+    },
+    {
+        "phoneCode": "332",
+        "city": "New York",
+        "cstate": "纽约州",
+        "state": "New York",
+        "ansi": "NY"
+    },
+    {
+        "phoneCode": "334",
+        "city": "Montgomery",
+        "cstate": "阿拉巴马州",
+        "state": "Alabama",
+        "ansi": "AL"
+    },
+    {
+        "phoneCode": "336",
+        "city": "Greensboro",
+        "cstate": "北卡罗来纳州",
+        "state": "North Carolina",
+        "ansi": "NC"
+    },
+    {
+        "phoneCode": "337",
+        "city": "Lafayette",
+        "cstate": "路易斯安那州",
+        "state": "Louisiana",
+        "ansi": "LA"
+    },
+    {
+        "phoneCode": "339",
+        "city": "Boston",
+        "cstate": "马萨诸塞州",
+        "state": "Massachusetts",
+        "ansi": "MA"
+    },
+    {
+        "phoneCode": "340",
+        "city": "St. Croix",
+        "cstate": "维尔京群岛",
+        "state": "Virgin Isl",
+        "ansi": "nd"
+    },
+    {
+        "phoneCode": "346",
+        "city": "Houston",
+        "cstate": "德克萨斯州",
+        "state": "Texas",
+        "ansi": "TX"
+    },
+    {
+        "phoneCode": "347",
+        "city": "New York",
+        "cstate": "纽约州",
+        "state": "New York",
+        "ansi": "NY"
+    },
+    {
+        "phoneCode": "351",
+        "city": "Lowell",
+        "cstate": "马萨诸塞州",
+        "state": "Massachusetts",
+        "ansi": "MA"
+    },
+    {
+        "phoneCode": "352",
+        "city": "Gainesville",
+        "cstate": "佛罗里达州",
+        "state": "Florida",
+        "ansi": "FL"
+    },
+    {
+        "phoneCode": "360",
+        "city": "Vancouver",
+        "cstate": "华盛顿州",
+        "state": "Washington",
+        "ansi": "WA"
+    },
+    {
+        "phoneCode": "361",
+        "city": "Corpus Christi",
+        "cstate": "德克萨斯州",
+        "state": "Texas",
+        "ansi": "TX"
+    },
+    {
+        "phoneCode": "364",
+        "city": "Bowling Green",
+        "cstate": "肯塔基州",
+        "state": "Kentucky",
+        "ansi": "KY"
+    },
+    {
+        "phoneCode": "380",
+        "city": "Columbus",
+        "cstate": "俄亥俄州",
+        "state": "Ohio",
+        "ansi": "OH"
+    },
+    {
+        "phoneCode": "385",
+        "city": "Salt Lake City",
+        "cstate": "犹他州",
+        "state": "Utah",
+        "ansi": "UT"
+    },
+    {
+        "phoneCode": "386",
+        "city": "Palm Coast",
+        "cstate": "佛罗里达州",
+        "state": "Florida",
+        "ansi": "FL"
+    },
+    {
+        "phoneCode": "401",
+        "city": "Providence",
+        "cstate": "罗德岛州",
+        "state": "Rhode Island",
+        "ansi": "RI"
+    },
+    {
+        "phoneCode": "402",
+        "city": "Omaha",
+        "cstate": "内布拉斯加州",
+        "state": "Nebraska",
+        "ansi": "NE"
+    },
+    {
+        "phoneCode": "404",
+        "city": "Atlanta",
+        "cstate": "乔治亚州",
+        "state": "Georgia",
+        "ansi": "GA"
+    },
+    {
+        "phoneCode": "405",
+        "city": "Oklahoma City",
+        "cstate": "奥克拉荷马州",
+        "state": "Oklahoma",
+        "ansi": "OK"
+    },
+    {
+        "phoneCode": "406",
+        "city": "Billings",
+        "cstate": "蒙大拿州",
+        "state": "Montana",
+        "ansi": "MT"
+    },
+    {
+        "phoneCode": "407",
+        "city": "Orlando",
+        "cstate": "佛罗里达州",
+        "state": "Florida",
+        "ansi": "FL"
+    },
+    {
+        "phoneCode": "408",
+        "city": "San Jose",
+        "cstate": "加利福尼亚州",
+        "state": "California",
+        "ansi": "CA"
+    },
+    {
+        "phoneCode": "409",
+        "city": "Beaumont",
+        "cstate": "德克萨斯州",
+        "state": "Texas",
+        "ansi": "TX"
+    },
+    {
+        "phoneCode": "410",
+        "city": "Baltimore",
+        "cstate": "马里兰州",
+        "state": "Maryland",
+        "ansi": "MD"
+    },
+    {
+        "phoneCode": "412",
+        "city": "Pittsburgh",
+        "cstate": "宾夕法尼亚州",
+        "state": "Pennsylvania",
+        "ansi": "PA"
+    },
+    {
+        "phoneCode": "413",
+        "city": "Springfield",
+        "cstate": "马萨诸塞州",
+        "state": "Massachusetts",
+        "ansi": "MA"
+    },
+    {
+        "phoneCode": "414",
+        "city": "Milwaukee",
+        "cstate": "威斯康辛州",
+        "state": "Wisconsin",
+        "ansi": "WI"
+    },
+    {
+        "phoneCode": "415",
+        "city": "San Francisco",
+        "cstate": "加利福尼亚州",
+        "state": "California",
+        "ansi": "CA"
+    },
+    {
+        "phoneCode": "417",
+        "city": "Springfield",
+        "cstate": "米苏里州",
+        "state": "Missouri",
+        "ansi": "MO"
+    },
+    {
+        "phoneCode": "419",
+        "city": "Toledo",
+        "cstate": "俄亥俄州",
+        "state": "Ohio",
+        "ansi": "OH"
+    },
+    {
+        "phoneCode": "423",
+        "city": "Chattanooga",
+        "cstate": "田纳西州",
+        "state": "Tennessee",
+        "ansi": "TN"
+    },
+    {
+        "phoneCode": "424",
+        "city": "Los Angeles",
+        "cstate": "加利福尼亚州",
+        "state": "California",
+        "ansi": "CA"
+    },
+    {
+        "phoneCode": "425",
+        "city": "Bellevue",
+        "cstate": "华盛顿州",
+        "state": "Washington",
+        "ansi": "WA"
+    },
+    {
+        "phoneCode": "430",
+        "city": "Tyler",
+        "cstate": "德克萨斯州",
+        "state": "Texas",
+        "ansi": "TX"
+    },
+    {
+        "phoneCode": "432",
+        "city": "Midland",
+        "cstate": "德克萨斯州",
+        "state": "Texas",
+        "ansi": "TX"
+    },
+    {
+        "phoneCode": "434",
+        "city": "Lynchburg",
+        "cstate": "弗吉尼亚州",
+        "state": "Virginia",
+        "ansi": "VA"
+    },
+    {
+        "phoneCode": "435",
+        "city": "St. George",
+        "cstate": "犹他州",
+        "state": "Utah",
+        "ansi": "UT"
+    },
+    {
+        "phoneCode": "440",
+        "city": "Parma",
+        "cstate": "俄亥俄州",
+        "state": "Ohio",
+        "ansi": "OH"
+    },
+    {
+        "phoneCode": "442",
+        "city": "Oceanside",
+        "cstate": "加利福尼亚州",
+        "state": "California",
+        "ansi": "CA"
+    },
+    {
+        "phoneCode": "443",
+        "city": "Baltimore",
+        "cstate": "马里兰州",
+        "state": "Maryland",
+        "ansi": "MD"
+    },
+    {
+        "phoneCode": "445",
+        "city": "Philadelphia",
+        "cstate": "宾夕法尼亚州",
+        "state": "Pennsylvania",
+        "ansi": "PA"
+    },
+    {
+        "phoneCode": "458",
+        "city": "Eugene",
+        "cstate": "俄勒冈州",
+        "state": "Oregon",
+        "ansi": "OR"
+    },
+    {
+        "phoneCode": "463",
+        "city": "Indianapolis",
+        "cstate": "印第安那州",
+        "state": "Indiana",
+        "ansi": "IN"
+    },
+    {
+        "phoneCode": "469",
+        "city": "Dallas",
+        "cstate": "德克萨斯州",
+        "state": "Texas",
+        "ansi": "TX"
+    },
+    {
+        "phoneCode": "470",
+        "city": "Atlanta",
+        "cstate": "乔治亚州",
+        "state": "Georgia",
+        "ansi": "GA"
+    },
+    {
+        "phoneCode": "475",
+        "city": "Bridgeport",
+        "cstate": "康涅狄格州",
+        "state": "Connecticut",
+        "ansi": "CT"
+    },
+    {
+        "phoneCode": "478",
+        "city": "Macon",
+        "cstate": "乔治亚州",
+        "state": "Georgia",
+        "ansi": "GA"
+    },
+    {
+        "phoneCode": "479",
+        "city": "Fort Smith",
+        "cstate": "阿肯色州",
+        "state": "Arkansas",
+        "ansi": "AR"
+    },
+    {
+        "phoneCode": "480",
+        "city": "Mesa",
+        "cstate": "亚利桑那州",
+        "state": "Arizona",
+        "ansi": "AZ"
+    },
+    {
+        "phoneCode": "484",
+        "city": "Allentown",
+        "cstate": "宾夕法尼亚州",
+        "state": "Pennsylvania",
+        "ansi": "PA"
+    },
+    {
+        "phoneCode": "501",
+        "city": "Little Rock",
+        "cstate": "阿肯色州",
+        "state": "Arkansas",
+        "ansi": "AR"
+    },
+    {
+        "phoneCode": "502",
+        "city": "Louisville",
+        "cstate": "肯塔基州",
+        "state": "Kentucky",
+        "ansi": "KY"
+    },
+    {
+        "phoneCode": "503",
+        "city": "Portland",
+        "cstate": "俄勒冈州",
+        "state": "Oregon",
+        "ansi": "OR"
+    },
+    {
+        "phoneCode": "504",
+        "city": "New Orleans",
+        "cstate": "路易斯安那州",
+        "state": "Louisiana",
+        "ansi": "LA"
+    },
+    {
+        "phoneCode": "505",
+        "city": "Albuquerque",
+        "cstate": "新墨西哥州",
+        "state": "New Mexico",
+        "ansi": "NM"
+    },
+    {
+        "phoneCode": "507",
+        "city": "Rochester",
+        "cstate": "明尼苏达州",
+        "state": "Minnesota",
+        "ansi": "MN"
+    },
+    {
+        "phoneCode": "508",
+        "city": "Worcester",
+        "cstate": "马萨诸塞州",
+        "state": "Massachusetts",
+        "ansi": "MA"
+    },
+    {
+        "phoneCode": "509",
+        "city": "Spokane",
+        "cstate": "华盛顿州",
+        "state": "Washington",
+        "ansi": "WA"
+    },
+    {
+        "phoneCode": "510",
+        "city": "Oakland",
+        "cstate": "加利福尼亚州",
+        "state": "California",
+        "ansi": "CA"
+    },
+    {
+        "phoneCode": "512",
+        "city": "Austin",
+        "cstate": "德克萨斯州",
+        "state": "Texas",
+        "ansi": "TX"
+    },
+    {
+        "phoneCode": "513",
+        "city": "Cincinnati",
+        "cstate": "俄亥俄州",
+        "state": "Ohio",
+        "ansi": "OH"
+    },
+    {
+        "phoneCode": "515",
+        "city": "Des Moines",
+        "cstate": "爱荷华州",
+        "state": "Iowa",
+        "ansi": "IA"
+    },
+    {
+        "phoneCode": "516",
+        "city": "Hempstead",
+        "cstate": "纽约州",
+        "state": "New York",
+        "ansi": "NY"
+    },
+    {
+        "phoneCode": "517",
+        "city": "Lansing",
+        "cstate": "密歇根州",
+        "state": "Michigan",
+        "ansi": "MI"
+    },
+    {
+        "phoneCode": "518",
+        "city": "Albany",
+        "cstate": "纽约州",
+        "state": "New York",
+        "ansi": "NY"
+    },
+    {
+        "phoneCode": "520",
+        "city": "Tucson",
+        "cstate": "亚利桑那州",
+        "state": "Arizona",
+        "ansi": "AZ"
+    },
+    {
+        "phoneCode": "531",
+        "city": "Omaha",
+        "cstate": "内布拉斯加州",
+        "state": "Nebraska",
+        "ansi": "NE"
+    },
+    {
+        "phoneCode": "534",
+        "city": "Eau Claire",
+        "cstate": "威斯康辛州",
+        "state": "Wisconsin",
+        "ansi": "WI"
+    },
+    {
+        "phoneCode": "539",
+        "city": "Tulsa",
+        "cstate": "奥克拉荷马州",
+        "state": "Oklahoma",
+        "ansi": "OK"
+    },
+    {
+        "phoneCode": "540",
+        "city": "Roanoke",
+        "cstate": "弗吉尼亚州",
+        "state": "Virginia",
+        "ansi": "VA"
+    },
+    {
+        "phoneCode": "541",
+        "city": "Eugene",
+        "cstate": "俄勒冈州",
+        "state": "Oregon",
+        "ansi": "OR"
+    },
+    {
+        "phoneCode": "551",
+        "city": "Jersey City",
+        "cstate": "新泽西州",
+        "state": "New Jersey",
+        "ansi": "NJ"
+    },
+    {
+        "phoneCode": "559",
+        "city": "Fresno",
+        "cstate": "加利福尼亚州",
+        "state": "California",
+        "ansi": "CA"
+    },
+    {
+        "phoneCode": "561",
+        "city": "West Palm Beach",
+        "cstate": "佛罗里达州",
+        "state": "Florida",
+        "ansi": "FL"
+    },
+    {
+        "phoneCode": "562",
+        "city": "Long Beach",
+        "cstate": "加利福尼亚州",
+        "state": "California",
+        "ansi": "CA"
+    },
+    {
+        "phoneCode": "563",
+        "city": "Davenport",
+        "cstate": "爱荷华州",
+        "state": "Iowa",
+        "ansi": "IA"
+    },
+    {
+        "phoneCode": "564",
+        "city": "Vancouver",
+        "cstate": "华盛顿州",
+        "state": "Washington",
+        "ansi": "WA"
+    },
+    {
+        "phoneCode": "567",
+        "city": "Toledo",
+        "cstate": "俄亥俄州",
+        "state": "Ohio",
+        "ansi": "OH"
+    },
+    {
+        "phoneCode": "570",
+        "city": "Scranton",
+        "cstate": "宾夕法尼亚州",
+        "state": "Pennsylvania",
+        "ansi": "PA"
+    },
+    {
+        "phoneCode": "571",
+        "city": "Arlington",
+        "cstate": "弗吉尼亚州",
+        "state": "Virginia",
+        "ansi": "VA"
+    },
+    {
+        "phoneCode": "573",
+        "city": "Columbia",
+        "cstate": "密歇根州",
+        "state": "Michigan",
+        "ansi": "MI"
+    },
+    {
+        "phoneCode": "574",
+        "city": "South Bend",
+        "cstate": "印第安那州",
+        "state": "Indiana",
+        "ansi": "IN"
+    },
+    {
+        "phoneCode": "575",
+        "city": "Las Cruces",
+        "cstate": "新墨西哥州",
+        "state": "New Mexico",
+        "ansi": "NM"
+    },
+    {
+        "phoneCode": "580",
+        "city": "Lawton",
+        "cstate": "奥克拉荷马州",
+        "state": "Oklahoma",
+        "ansi": "OK"
+    },
+    {
+        "phoneCode": "585",
+        "city": "Rochester",
+        "cstate": "纽约州",
+        "state": "New York",
+        "ansi": "NY"
+    },
+    {
+        "phoneCode": "586",
+        "city": "Eastern",
+        "cstate": "密歇根州",
+        "state": "Michigan",
+        "ansi": "MI"
+    },
+    {
+        "phoneCode": "601",
+        "city": "Jackson",
+        "cstate": "密西西比州",
+        "state": "Mississippi",
+        "ansi": "MS"
+    },
+    {
+        "phoneCode": "602",
+        "city": "Phoenix",
+        "cstate": "亚利桑那州",
+        "state": "Arizona",
+        "ansi": "AZ"
+    },
+    {
+        "phoneCode": "603",
+        "city": "Manchester",
+        "cstate": "新罕布什尔州",
+        "state": "New Hampshire",
+        "ansi": "NH"
+    },
+    {
+        "phoneCode": "605",
+        "city": "Sioux Falls",
+        "cstate": "南达科他州",
+        "state": "South Dakota",
+        "ansi": "SD"
+    },
+    {
+        "phoneCode": "606",
+        "city": "Ashland",
+        "cstate": "肯塔基州",
+        "state": "Kentucky",
+        "ansi": "KY"
+    },
+    {
+        "phoneCode": "607",
+        "city": "Binghamton",
+        "cstate": "纽约州",
+        "state": "New York",
+        "ansi": "NY"
+    },
+    {
+        "phoneCode": "608",
+        "city": "Madison",
+        "cstate": "威斯康辛州",
+        "state": "Wisconsin",
+        "ansi": "WI"
+    },
+    {
+        "phoneCode": "609",
+        "city": "Trenton",
+        "cstate": "新泽西州",
+        "state": "New Jersey",
+        "ansi": "NJ"
+    },
+    {
+        "phoneCode": "610",
+        "city": "Allentown",
+        "cstate": "宾夕法尼亚州",
+        "state": "Pennsylvania",
+        "ansi": "PA"
+    },
+    {
+        "phoneCode": "612",
+        "city": "Minneapolis",
+        "cstate": "明尼苏达州",
+        "state": "Minnesota",
+        "ansi": "MN"
+    },
+    {
+        "phoneCode": "614",
+        "city": "Columbus",
+        "cstate": "俄亥俄州",
+        "state": "Ohio",
+        "ansi": "OH"
+    },
+    {
+        "phoneCode": "615",
+        "city": "Nashville",
+        "cstate": "田纳西州",
+        "state": "Tennessee",
+        "ansi": "TN"
+    },
+    {
+        "phoneCode": "616",
+        "city": "Grand Rapids",
+        "cstate": "密歇根州",
+        "state": "Michigan",
+        "ansi": "MI"
+    },
+    {
+        "phoneCode": "617",
+        "city": "Boston",
+        "cstate": "马萨诸塞州",
+        "state": "Massachusetts",
+        "ansi": "MA"
+    },
+    {
+        "phoneCode": "618",
+        "city": "Belleville",
+        "cstate": "伊利诺伊州",
+        "state": "Illinois",
+        "ansi": "IL"
+    },
+    {
+        "phoneCode": "619",
+        "city": "San Diego",
+        "cstate": "加利福尼亚州",
+        "state": "California",
+        "ansi": "CA"
+    },
+    {
+        "phoneCode": "620",
+        "city": "Hutchinson",
+        "cstate": "堪萨斯州",
+        "state": "Kansas",
+        "ansi": "KS"
+    },
+    {
+        "phoneCode": "623",
+        "city": "Phoenix",
+        "cstate": "亚利桑那州",
+        "state": "Arizona",
+        "ansi": "AZ"
+    },
+    {
+        "phoneCode": "626",
+        "city": "Pasadena",
+        "cstate": "加利福尼亚州",
+        "state": "California",
+        "ansi": "CA"
+    },
+    {
+        "phoneCode": "628",
+        "city": "San Francisco",
+        "cstate": "加利福尼亚州",
+        "state": "California",
+        "ansi": "CA"
+    },
+    {
+        "phoneCode": "629",
+        "city": "Nashville",
+        "cstate": "田纳西州",
+        "state": "Tennessee",
+        "ansi": "TN"
+    },
+    {
+        "phoneCode": "630",
+        "city": "Aurora",
+        "cstate": "伊利诺伊州",
+        "state": "Illinois",
+        "ansi": "IL"
+    },
+    {
+        "phoneCode": "631",
+        "city": "Brentwood",
+        "cstate": "纽约州",
+        "state": "New York",
+        "ansi": "NY"
+    },
+    {
+        "phoneCode": "636",
+        "city": "O’Fallon",
+        "cstate": "米苏里州",
+        "state": "Missouri",
+        "ansi": "MO"
+    },
+    {
+        "phoneCode": "640",
+        "city": "Trenton",
+        "cstate": "新泽西州",
+        "state": "New Jersey",
+        "ansi": "NJ"
+    },
+    {
+        "phoneCode": "641",
+        "city": "Mason City",
+        "cstate": "爱荷华州",
+        "state": "Iowa",
+        "ansi": "IA"
+    },
+    {
+        "phoneCode": "646",
+        "city": "New York",
+        "cstate": "纽约州",
+        "state": "New York",
+        "ansi": "NY"
+    },
+    {
+        "phoneCode": "650",
+        "city": "San Mateo",
+        "cstate": "加利福尼亚州",
+        "state": "California",
+        "ansi": "CA"
+    },
+    {
+        "phoneCode": "651",
+        "city": "St. Paul",
+        "cstate": "明尼苏达州",
+        "state": "Minnesota",
+        "ansi": "MN"
+    },
+    {
+        "phoneCode": "657",
+        "city": "Anaheim",
+        "cstate": "加利福尼亚州",
+        "state": "California",
+        "ansi": "CA"
+    },
+    {
+        "phoneCode": "660",
+        "city": "Sedalia",
+        "cstate": "米苏里州",
+        "state": "Missouri",
+        "ansi": "MO"
+    },
+    {
+        "phoneCode": "661",
+        "city": "Bakersfield",
+        "cstate": "加利福尼亚州",
+        "state": "California",
+        "ansi": "CA"
+    },
+    {
+        "phoneCode": "662",
+        "city": "Southaven",
+        "cstate": "密西西比州",
+        "state": "Mississippi",
+        "ansi": "MS"
+    },
+    {
+        "phoneCode": "667",
+        "city": "Baltimore",
+        "cstate": "马里兰州",
+        "state": "Maryland",
+        "ansi": "MD"
+    },
+    {
+        "phoneCode": "669",
+        "city": "San Jose",
+        "cstate": "加利福尼亚州",
+        "state": "California",
+        "ansi": "CA"
+    },
+    {
+        "phoneCode": "671",
+        "city": "Dededo",
+        "cstate": "关岛",
+        "state": "Guam",
+        "ansi": "GM"
+    },
+    {
+        "phoneCode": "678",
+        "city": "Atlanta",
+        "cstate": "乔治亚州",
+        "state": "Georgia",
+        "ansi": "GA"
+    },
+    {
+        "phoneCode": "680",
+        "city": "Syracuse",
+        "cstate": "纽约州",
+        "state": "New York",
+        "ansi": "NY"
+    },
+    {
+        "phoneCode": "681",
+        "city": "Charleston",
+        "cstate": "西弗吉尼亚州",
+        "state": "West Virginia",
+        "ansi": "WV"
+    },
+    {
+        "phoneCode": "682",
+        "city": "Fort Worth",
+        "cstate": "德克萨斯州",
+        "state": "Texas",
+        "ansi": "TX"
+    },
+    {
+        "phoneCode": "701",
+        "city": "Fargo",
+        "cstate": "北达科他州",
+        "state": "North Dakota",
+        "ansi": "ND"
+    },
+    {
+        "phoneCode": "702",
+        "city": "Las Vegas",
+        "cstate": "内华达州",
+        "state": "Nevada",
+        "ansi": "NV"
+    },
+    {
+        "phoneCode": "703",
+        "city": "Arlington",
+        "cstate": "弗吉尼亚州",
+        "state": "Virginia",
+        "ansi": "VA"
+    },
+    {
+        "phoneCode": "704",
+        "city": "Charlotte",
+        "cstate": "北卡罗来纳州",
+        "state": "North Carolina",
+        "ansi": "NC"
+    },
+    {
+        "phoneCode": "706",
+        "city": "Augusta",
+        "cstate": "乔治亚州",
+        "state": "Georgia",
+        "ansi": "GA"
+    },
+    {
+        "phoneCode": "707",
+        "city": "Santa Rosa",
+        "cstate": "加利福尼亚州",
+        "state": "California",
+        "ansi": "CA"
+    },
+    {
+        "phoneCode": "708",
+        "city": "Cicero",
+        "cstate": "伊利诺伊州",
+        "state": "Illinois",
+        "ansi": "IL"
+    },
+    {
+        "phoneCode": "712",
+        "city": "Sioux City",
+        "cstate": "爱荷华州",
+        "state": "Iowa",
+        "ansi": "IA"
+    },
+    {
+        "phoneCode": "713",
+        "city": "Houston",
+        "cstate": "德克萨斯州",
+        "state": "Texas",
+        "ansi": "TX"
+    },
+    {
+        "phoneCode": "714",
+        "city": "Anaheim",
+        "cstate": "加利福尼亚州",
+        "state": "California",
+        "ansi": "CA"
+    },
+    {
+        "phoneCode": "715",
+        "city": "Eau Claire",
+        "cstate": "威斯康辛州",
+        "state": "Wisconsin",
+        "ansi": "WI"
+    },
+    {
+        "phoneCode": "716",
+        "city": "Buffalo",
+        "cstate": "纽约州",
+        "state": "New York",
+        "ansi": "NY"
+    },
+    {
+        "phoneCode": "717",
+        "city": "Lancaster",
+        "cstate": "宾夕法尼亚州",
+        "state": "Pennsylvania",
+        "ansi": "PA"
+    },
+    {
+        "phoneCode": "718",
+        "city": "New York",
+        "cstate": "纽约州",
+        "state": "New York",
+        "ansi": "NY"
+    },
+    {
+        "phoneCode": "719",
+        "city": "Colorado Springs",
+        "cstate": "科罗拉多州",
+        "state": "Colorado",
+        "ansi": "CO"
+    },
+    {
+        "phoneCode": "720",
+        "city": "Denver",
+        "cstate": "科罗拉多州",
+        "state": "Colorado",
+        "ansi": "CO"
+    },
+    {
+        "phoneCode": "724",
+        "city": "New Castle",
+        "cstate": "宾夕法尼亚州",
+        "state": "Pennsylvania",
+        "ansi": "PA"
+    },
+    {
+        "phoneCode": "725",
+        "city": "Las Vegas",
+        "cstate": "内华达州",
+        "state": "Nevada",
+        "ansi": "NV"
+    },
+    {
+        "phoneCode": "726",
+        "city": "San Antonio",
+        "cstate": "德克萨斯州",
+        "state": "Texas",
+        "ansi": "TX"
+    },
+    {
+        "phoneCode": "727",
+        "city": "St. Petersburg",
+        "cstate": "佛罗里达州",
+        "state": "Florida",
+        "ansi": "FL"
+    },
+    {
+        "phoneCode": "731",
+        "city": "Jackson",
+        "cstate": "田纳西州",
+        "state": "Tennessee",
+        "ansi": "TN"
+    },
+    {
+        "phoneCode": "732",
+        "city": "Toms River",
+        "cstate": "新泽西州",
+        "state": "New Jersey",
+        "ansi": "NJ"
+    },
+    {
+        "phoneCode": "734",
+        "city": "Ann Arbor",
+        "cstate": "密歇根州",
+        "state": "Michigan",
+        "ansi": "MI"
+    },
+    {
+        "phoneCode": "737",
+        "city": "Austin",
+        "cstate": "德克萨斯州",
+        "state": "Texas",
+        "ansi": "TX"
+    },
+    {
+        "phoneCode": "740",
+        "city": "Newark",
+        "cstate": "俄亥俄州",
+        "state": "Ohio",
+        "ansi": "OH"
+    },
+    {
+        "phoneCode": "743",
+        "city": "Greensboro",
+        "cstate": "北卡罗来纳州",
+        "state": "North Carolina",
+        "ansi": "NC"
+    },
+    {
+        "phoneCode": "747",
+        "city": "Los Angeles",
+        "cstate": " 加利福尼亚州",
+        "state": "California",
+        "ansi": "CA"
+    },
+    {
+        "phoneCode": "754",
+        "city": "Fort Lauderdale",
+        "cstate": "佛罗里达州",
+        "state": "Florida",
+        "ansi": "FL"
+    },
+    {
+        "phoneCode": "757",
+        "city": "Virginia Beach",
+        "cstate": "弗吉尼亚州",
+        "state": "Virginia",
+        "ansi": "VA"
+    },
+    {
+        "phoneCode": "760",
+        "city": "Oceanside",
+        "cstate": "加利福尼亚州",
+        "state": "California",
+        "ansi": "CA"
+    },
+    {
+        "phoneCode": "762",
+        "city": "Augusta",
+        "cstate": "乔治亚州",
+        "state": "Georgia",
+        "ansi": "GA"
+    },
+    {
+        "phoneCode": "763",
+        "city": "Brooklyn Park",
+        "cstate": "明尼苏达州",
+        "state": "Minnesota",
+        "ansi": "MN"
+    },
+    {
+        "phoneCode": "765",
+        "city": "Muncie",
+        "cstate": "印第安那州",
+        "state": "Indiana",
+        "ansi": "IN"
+    },
+    {
+        "phoneCode": "769",
+        "city": "Jackson",
+        "cstate": "密西西比州",
+        "state": "Mississippi",
+        "ansi": "MS"
+    },
+    {
+        "phoneCode": "770",
+        "city": "Roswell",
+        "cstate": "乔治亚州",
+        "state": "Georgia",
+        "ansi": "GA"
+    },
+    {
+        "phoneCode": "772",
+        "city": "Port St. Lucie",
+        "cstate": "佛罗里达州",
+        "state": "Florida",
+        "ansi": "FL"
+    },
+    {
+        "phoneCode": "773",
+        "city": "Chicago",
+        "cstate": "伊利诺伊州",
+        "state": "Illinois",
+        "ansi": "IL"
+    },
+    {
+        "phoneCode": "774",
+        "city": "Worcester",
+        "cstate": "马萨诸塞州",
+        "state": "Massachusetts",
+        "ansi": "MA"
+    },
+    {
+        "phoneCode": "775",
+        "city": "Reno",
+        "cstate": "内华达州",
+        "state": "Nevada",
+        "ansi": "NV"
+    },
+    {
+        "phoneCode": "779",
+        "city": "Rockford",
+        "cstate": "伊利诺伊州",
+        "state": "Illinois",
+        "ansi": "IL"
+    },
+    {
+        "phoneCode": "781",
+        "city": "Boston",
+        "cstate": "马萨诸塞州",
+        "state": "Massachusetts",
+        "ansi": "MA"
+    },
+    {
+        "phoneCode": "785",
+        "city": "Topeka",
+        "cstate": "堪萨斯州",
+        "state": "Kansas",
+        "ansi": "KS"
+    },
+    {
+        "phoneCode": "786",
+        "city": "Miami",
+        "cstate": "佛罗里达州",
+        "state": "Florida",
+        "ansi": "FL"
+    },
+    {
+        "phoneCode": "787",
+        "city": "San Juan",
+        "cstate": "波多黎各",
+        "state": "Puerto Rico",
+        "ansi": "PR"
+    },
+    {
+        "phoneCode": "801",
+        "city": "Salt Lake City",
+        "cstate": "犹他州",
+        "state": "Utah",
+        "ansi": "UT"
+    },
+    {
+        "phoneCode": "802",
+        "city": "Burlington",
+        "cstate": "佛蒙特州",
+        "state": "Vermont",
+        "ansi": "VT"
+    },
+    {
+        "phoneCode": "803",
+        "city": "Columbia",
+        "cstate": "南卡罗来纳州",
+        "state": "South Carolina",
+        "ansi": "SC"
+    },
+    {
+        "phoneCode": "804",
+        "city": "Richmond",
+        "cstate": "弗吉尼亚州",
+        "state": "Virginia",
+        "ansi": "VA"
+    },
+    {
+        "phoneCode": "805",
+        "city": "Oxnard",
+        "cstate": "加利福尼亚州",
+        "state": "California",
+        "ansi": "CA"
+    },
+    {
+        "phoneCode": "806",
+        "city": "Lubbock",
+        "cstate": "德克萨斯州",
+        "state": "Texas",
+        "ansi": "TX"
+    },
+    {
+        "phoneCode": "808",
+        "city": "Urban Honolulu",
+        "cstate": "夏威夷州",
+        "state": "Hawaii",
+        "ansi": "HI"
+    },
+    {
+        "phoneCode": "810",
+        "city": "Flint",
+        "cstate": "密歇根州",
+        "state": "Michigan",
+        "ansi": "MI"
+    },
+    {
+        "phoneCode": "812",
+        "city": "Evansville",
+        "cstate": "印第安那州",
+        "state": "Indiana",
+        "ansi": "IN"
+    },
+    {
+        "phoneCode": "813",
+        "city": "Tampa",
+        "cstate": "佛罗里达州",
+        "state": "Florida",
+        "ansi": "FL"
+    },
+    {
+        "phoneCode": "814",
+        "city": "Erie",
+        "cstate": "宾夕法尼亚州",
+        "state": "Pennsylvania",
+        "ansi": "PA"
+    },
+    {
+        "phoneCode": "815",
+        "city": "Rockford",
+        "cstate": "伊利诺伊州",
+        "state": "Illinois",
+        "ansi": "IL"
+    },
+    {
+        "phoneCode": "816",
+        "city": "Kansas City",
+        "cstate": "米苏里州",
+        "state": "Missouri",
+        "ansi": "MO"
+    },
+    {
+        "phoneCode": "817",
+        "city": "Fort Worth",
+        "cstate": "德克萨斯州",
+        "state": "Texas",
+        "ansi": "TX"
+    },
+    {
+        "phoneCode": "818",
+        "city": "Los Angeles",
+        "cstate": "加利福尼亚州",
+        "state": "California",
+        "ansi": "CA"
+    },
+    {
+        "phoneCode": "820",
+        "city": "Oxnard",
+        "cstate": "加利福尼亚州",
+        "state": "California",
+        "ansi": "CA"
+    },
+    {
+        "phoneCode": "828",
+        "city": "Asheville",
+        "cstate": "北卡罗来纳州",
+        "state": "North Carolina",
+        "ansi": "NC"
+    },
+    {
+        "phoneCode": "830",
+        "city": "New Braunfels",
+        "cstate": "德克萨斯州",
+        "state": "Texas",
+        "ansi": "TX"
+    },
+    {
+        "phoneCode": "831",
+        "city": "Salinas",
+        "cstate": "加利福尼亚州",
+        "state": "California",
+        "ansi": "CA"
+    },
+    {
+        "phoneCode": "832",
+        "city": "Houston",
+        "cstate": "德克萨斯州",
+        "state": "Texas",
+        "ansi": "TX"
+    },
+    {
+        "phoneCode": "838",
+        "city": "Albany",
+        "cstate": "纽约州",
+        "state": "New York",
+        "ansi": "NY"
+    },
+    {
+        "phoneCode": "843",
+        "city": "Charleston",
+        "cstate": "南卡罗来纳州",
+        "state": "South Carolina",
+        "ansi": "SC"
+    },
+    {
+        "phoneCode": "845",
+        "city": "New City",
+        "cstate": "纽约州",
+        "state": "New York",
+        "ansi": "NY"
+    },
+    {
+        "phoneCode": "847",
+        "city": "Elgin",
+        "cstate": "伊利诺伊州",
+        "state": "Illinois",
+        "ansi": "IL"
+    },
+    {
+        "phoneCode": "848",
+        "city": "Toms River",
+        "cstate": "新泽西州",
+        "state": "New Jersey",
+        "ansi": "NJ"
+    },
+    {
+        "phoneCode": "850",
+        "city": "Tallahassee",
+        "cstate": "佛罗里达州",
+        "state": "Florida",
+        "ansi": "FL"
+    },
+    {
+        "phoneCode": "854",
+        "city": "Charleston",
+        "cstate": "南卡罗来纳州",
+        "state": "South Carolina",
+        "ansi": "SC"
+    },
+    {
+        "phoneCode": "856",
+        "city": "Camden",
+        "cstate": "新泽西州",
+        "state": "New Jersey",
+        "ansi": "NJ"
+    },
+    {
+        "phoneCode": "857",
+        "city": "Boston",
+        "cstate": "马萨诸塞州",
+        "state": "Massachusetts",
+        "ansi": "MA"
+    },
+    {
+        "phoneCode": "858",
+        "city": "San Diego",
+        "cstate": " 加利福尼亚州",
+        "state": "California",
+        "ansi": "CA"
+    },
+    {
+        "phoneCode": "859",
+        "city": "Lexington-Fayette",
+        "cstate": "肯塔基州",
+        "state": "Kentucky",
+        "ansi": "KY"
+    },
+    {
+        "phoneCode": "860",
+        "city": "Hartford",
+        "cstate": "康涅狄格州",
+        "state": "Connecticut",
+        "ansi": "CT"
+    },
+    {
+        "phoneCode": "862",
+        "city": "Newark",
+        "cstate": "新泽西州",
+        "state": "New Jersey",
+        "ansi": "NJ"
+    },
+    {
+        "phoneCode": "863",
+        "city": "Lakeland",
+        "cstate": "佛罗里达州",
+        "state": "Florida",
+        "ansi": "FL"
+    },
+    {
+        "phoneCode": "864",
+        "city": "Greenville",
+        "cstate": "南卡罗来纳州",
+        "state": "South Carolina",
+        "ansi": "SC"
+    },
+    {
+        "phoneCode": "865",
+        "city": "Knoxville",
+        "cstate": "田纳西州",
+        "state": "Tennessee",
+        "ansi": "TN"
+    },
+    {
+        "phoneCode": "867",
+        "city": "Whitehorse, YT",
+        "cstate": "北卡罗来纳州",
+        "state": "North Carolina",
+        "ansi": "NC"
+    },
+    {
+        "phoneCode": "870",
+        "city": "Jonesboro",
+        "cstate": "阿肯色州",
+        "state": "Arkansas",
+        "ansi": "AR"
+    },
+    {
+        "phoneCode": "872",
+        "city": "Chicago",
+        "cstate": "伊利诺伊州",
+        "state": "Illinois",
+        "ansi": "IL"
+    },
+    {
+        "phoneCode": "878",
+        "city": "Pittsburgh",
+        "cstate": "宾夕法尼亚州",
+        "state": "Pennsylvania",
+        "ansi": "PA"
+    },
+    {
+        "phoneCode": "901",
+        "city": "Memphis",
+        "cstate": "田纳西州",
+        "state": "Tennessee",
+        "ansi": "TN"
+    },
+    {
+        "phoneCode": "903",
+        "city": "Tyler",
+        "cstate": "德克萨斯州",
+        "state": "Texas",
+        "ansi": "TX"
+    },
+    {
+        "phoneCode": "904",
+        "city": "Jacksonville",
+        "cstate": "佛罗里达州",
+        "state": "Florida",
+        "ansi": "FL"
+    },
+    {
+        "phoneCode": "906",
+        "city": "Marquette",
+        "cstate": "密歇根州",
+        "state": "Michigan",
+        "ansi": "MI"
+    },
+    {
+        "phoneCode": "907",
+        "city": "Anchorage",
+        "cstate": "阿拉斯加州",
+        "state": "Alaska",
+        "ansi": "AK"
+    },
+    {
+        "phoneCode": "908",
+        "city": "Elizabeth",
+        "cstate": "新泽西州",
+        "state": "New Jersey",
+        "ansi": "NJ"
+    },
+    {
+        "phoneCode": "909",
+        "city": "San Bernardino",
+        "cstate": "加利福尼亚州",
+        "state": "California",
+        "ansi": "CA"
+    },
+    {
+        "phoneCode": "910",
+        "city": "Fayetteville",
+        "cstate": "北卡罗来纳州",
+        "state": "North Carolina",
+        "ansi": "NC"
+    },
+    {
+        "phoneCode": "912",
+        "city": "Savannah",
+        "cstate": "乔治亚州",
+        "state": "Georgia",
+        "ansi": "GA"
+    },
+    {
+        "phoneCode": "913",
+        "city": "Overland Park",
+        "cstate": "堪萨斯州",
+        "state": "Kansas",
+        "ansi": "KS"
+    },
+    {
+        "phoneCode": "914",
+        "city": "Yonkers",
+        "cstate": "纽约州",
+        "state": "New York",
+        "ansi": "NY"
+    },
+    {
+        "phoneCode": "915",
+        "city": "El Paso",
+        "cstate": "德克萨斯州",
+        "state": "Texas",
+        "ansi": "TX"
+    },
+    {
+        "phoneCode": "916",
+        "city": "Sacramento",
+        "cstate": "加利福尼亚州",
+        "state": "California",
+        "ansi": "CA"
+    },
+    {
+        "phoneCode": "917",
+        "city": "New York",
+        "cstate": "纽约州",
+        "state": "New York",
+        "ansi": "NY"
+    },
+    {
+        "phoneCode": "918",
+        "city": "Tulsa",
+        "cstate": "奥克拉荷马州",
+        "state": "Oklahoma",
+        "ansi": "OK"
+    },
+    {
+        "phoneCode": "919",
+        "city": "Raleigh",
+        "cstate": "北卡罗来纳州",
+        "state": "North Carolina",
+        "ansi": "NC"
+    },
+    {
+        "phoneCode": "920",
+        "city": "Green Bay",
+        "cstate": "威斯康辛州",
+        "state": "Wisconsin",
+        "ansi": "WI"
+    },
+    {
+        "phoneCode": "925",
+        "city": "Concord",
+        "cstate": "加利福尼亚州",
+        "state": "California",
+        "ansi": "CA"
+    },
+    {
+        "phoneCode": "928",
+        "city": "Yuma",
+        "cstate": "亚利桑那州",
+        "state": "Arizona",
+        "ansi": "AZ"
+    },
+    {
+        "phoneCode": "929",
+        "city": "New York",
+        "cstate": "纽约州",
+        "state": "New York",
+        "ansi": "NY"
+    },
+    {
+        "phoneCode": "930",
+        "city": "Evansville",
+        "cstate": "印第安那州",
+        "state": "Indiana",
+        "ansi": "IN"
+    },
+    {
+        "phoneCode": "931",
+        "city": "Clarksville",
+        "cstate": "田纳西州",
+        "state": "Tennessee",
+        "ansi": "TN"
+    },
+    {
+        "phoneCode": "934",
+        "city": "Brentwood",
+        "cstate": "纽约州",
+        "state": "New York",
+        "ansi": "NY"
+    },
+    {
+        "phoneCode": "936",
+        "city": "Conroe",
+        "cstate": "德克萨斯州",
+        "state": "Texas",
+        "ansi": "TX"
+    },
+    {
+        "phoneCode": "937",
+        "city": "Dayton",
+        "cstate": "俄亥俄州",
+        "state": "Ohio",
+        "ansi": "OH"
+    },
+    {
+        "phoneCode": "938",
+        "city": "Huntsville",
+        "cstate": "阿拉巴马州",
+        "state": "Alabama",
+        "ansi": "AL"
+    },
+    {
+        "phoneCode": "939",
+        "city": "San Juan",
+        "cstate": "波多黎各",
+        "state": "Puerto Rico",
+        "ansi": "PR"
+    },
+    {
+        "phoneCode": "940",
+        "city": "Denton",
+        "cstate": "德克萨斯州",
+        "state": "Texas",
+        "ansi": "TX"
+    },
+    {
+        "phoneCode": "941",
+        "city": "North Port",
+        "cstate": "佛罗里达州",
+        "state": "Florida",
+        "ansi": "FL"
+    },
+    {
+        "phoneCode": "947",
+        "city": "Troy",
+        "cstate": "密歇根州",
+        "state": "Michigan",
+        "ansi": "MI"
+    },
+    {
+        "phoneCode": "949",
+        "city": "Irvine",
+        "cstate": "加利福尼亚州",
+        "state": "California",
+        "ansi": "CA"
+    },
+    {
+        "phoneCode": "951",
+        "city": "Riverside",
+        "cstate": "加利福尼亚州",
+        "state": "California",
+        "ansi": "CA"
+    },
+    {
+        "phoneCode": "952",
+        "city": "Bloomington",
+        "cstate": "明尼苏达州",
+        "state": "Minnesota",
+        "ansi": "MN"
+    },
+    {
+        "phoneCode": "954",
+        "city": "Fort Lauderdale",
+        "cstate": "佛罗里达州",
+        "state": "Florida",
+        "ansi": "FL"
+    },
+    {
+        "phoneCode": "956",
+        "city": "Laredo",
+        "cstate": "德克萨斯州",
+        "state": "Texas",
+        "ansi": "TX"
+    },
+    {
+        "phoneCode": "959",
+        "city": "Hartford",
+        "cstate": "康涅狄格州",
+        "state": "Connecticut",
+        "ansi": "CT"
+    },
+    {
+        "phoneCode": "970",
+        "city": "Fort Collins",
+        "cstate": "科罗拉多州",
+        "state": "Colorado",
+        "ansi": "CO"
+    },
+    {
+        "phoneCode": "971",
+        "city": "Portland",
+        "cstate": "俄勒冈州",
+        "state": "Oregon",
+        "ansi": "OR"
+    },
+    {
+        "phoneCode": "972",
+        "city": "Dallas",
+        "cstate": "德克萨斯州",
+        "state": "Texas",
+        "ansi": "TX"
+    },
+    {
+        "phoneCode": "973",
+        "city": "Newark",
+        "cstate": "德克萨斯州",
+        "state": "Texas",
+        "ansi": "TX"
+    },
+    {
+        "phoneCode": "978",
+        "city": "Lowell",
+        "cstate": "马萨诸塞州",
+        "state": "Massachusetts",
+        "ansi": "MA"
+    },
+    {
+        "phoneCode": "979",
+        "city": "College Station",
+        "cstate": "德克萨斯州",
+        "state": "Texas",
+        "ansi": "TX"
+    },
+    {
+        "phoneCode": "980",
+        "city": "Charlotte",
+        "cstate": "北卡罗来纳州",
+        "state": "North Carolina",
+        "ansi": "NC"
+    },
+    {
+        "phoneCode": "984",
+        "city": "Raleigh",
+        "cstate": "北卡罗来纳州",
+        "state": "North Carolina",
+        "ansi": "NC"
+    },
+    {
+        "phoneCode": "985",
+        "city": "Houma",
+        "cstate": "路易斯安那州",
+        "state": "Louisiana",
+        "ansi": "LA"
+    },
+    {
+        "phoneCode": "986",
+        "city": "Boise City",
+        "cstate": "爱华达州",
+        "state": "Idaho",
+        "ansi": "ID"
+    },
+    {
+        "phoneCode": "989",
+        "city": "Saginaw",
+        "cstate": "密歇根州",
+        "state": "Michigan",
+        "ansi": "MI"
+    }
+]

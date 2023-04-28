@@ -1,0 +1,346 @@
+[
+    {
+        "phoneCode": "204",
+        "city": "",
+        "statedata": "Manitoba（MB）曼尼托巴",
+        "cstate": "曼尼托巴",
+        "state": "Manitoba",
+        "ansi": "MB"
+    },
+    {
+        "phoneCode": "226",
+        "city": "London",
+        "statedata": "Ontario（ON）安大略",
+        "cstate": "安大略",
+        "state": "Ontario",
+        "ansi": "ON"
+    },
+    {
+        "phoneCode": "236",
+        "city": "Vancouver",
+        "statedata": "British Columbia（BC）不列颠哥伦比亚",
+        "cstate": "不列颠哥伦比亚",
+        "state": "British Columbia",
+        "ansi": "BC"
+    },
+    {
+        "phoneCode": "249",
+        "city": "Sudbury",
+        "statedata": "Ontario（ON）安大略",
+        "cstate": "安大略",
+        "state": "Ontario",
+        "ansi": "ON"
+    },
+    {
+        "phoneCode": "250",
+        "city": "Kelowna",
+        "statedata": "British Columbia（BC）不列颠哥伦比亚",
+        "cstate": "不列颠哥伦比亚",
+        "state": "British Columbia",
+        "ansi": "BC"
+    },
+    {
+        "phoneCode": "289",
+        "city": "Hamilton",
+        "statedata": "Ontario（ON）安大略",
+        "cstate": "安大略",
+        "state": "Ontario",
+        "ansi": "ON"
+    },
+    {
+        "phoneCode": "306",
+        "city": "",
+        "statedata": "Saskatchewan（SK）萨斯喀彻温",
+        "cstate": "萨斯喀彻温",
+        "state": "Saskatchewan",
+        "ansi": "SK"
+    },
+    {
+        "phoneCode": "343",
+        "city": "Ottawa",
+        "statedata": "Ontario（ON）安大略",
+        "cstate": "安大略",
+        "state": "Ontario",
+        "ansi": "ON"
+    },
+    {
+        "phoneCode": "365",
+        "city": "Hamilton",
+        "statedata": "Ontario（ON）安大略",
+        "cstate": "安大略",
+        "state": "Ontario",
+        "ansi": "ON"
+    },
+    {
+        "phoneCode": "367",
+        "city": "",
+        "statedata": "Quebec（QC）魁北克",
+        "cstate": "魁北克",
+        "state": "Quebec",
+        "ansi": "QC"
+    },
+    {
+        "phoneCode": "403",
+        "city": "Calgary",
+        "statedata": "Alberta（AB）艾伯塔",
+        "cstate": "艾伯塔",
+        "state": "Alberta",
+        "ansi": "AB"
+    },
+    {
+        "phoneCode": "416",
+        "city": "Toronto",
+        "statedata": "Ontario（ON）安大略",
+        "cstate": "安大略",
+        "state": "Ontario",
+        "ansi": "ON"
+    },
+    {
+        "phoneCode": "418",
+        "city": "",
+        "statedata": "Quebec（QC）魁北克",
+        "cstate": "魁北克",
+        "state": "Quebec",
+        "ansi": "QC"
+    },
+    {
+        "phoneCode": "431",
+        "city": "",
+        "statedata": "Manitoba（MB）曼尼托巴",
+        "cstate": "曼尼托巴",
+        "state": "Manitoba",
+        "ansi": "MB"
+    },
+    {
+        "phoneCode": "437",
+        "city": "Toronto",
+        "statedata": "Ontario（ON）安大略",
+        "cstate": "安大略",
+        "state": "Ontario",
+        "ansi": "ON"
+    },
+    {
+        "phoneCode": "438",
+        "city": "Montreal",
+        "statedata": "Quebec（QC）魁北克",
+        "cstate": "魁北克",
+        "state": "Quebec",
+        "ansi": "QC"
+    },
+    {
+        "phoneCode": "450",
+        "city": "Granby",
+        "statedata": "Quebec（QC）魁北克",
+        "cstate": "魁北克",
+        "state": "Quebec",
+        "ansi": "QC"
+    },
+    {
+        "phoneCode": "506",
+        "city": "",
+        "statedata": "New Brunswick（NB）新不伦瑞克",
+        "cstate": "新不伦瑞克",
+        "state": "New Brunswick",
+        "ansi": "NB"
+    },
+    {
+        "phoneCode": "514",
+        "city": "Montreal",
+        "statedata": "Quebec（QC）魁北克",
+        "cstate": "魁北克",
+        "state": "Quebec",
+        "ansi": "QC"
+    },
+    {
+        "phoneCode": "519",
+        "city": "London",
+        "statedata": "Ontario（ON）安大略",
+        "cstate": "安大略",
+        "state": "Ontario",
+        "ansi": "ON"
+    },
+    {
+        "phoneCode": "548",
+        "city": "London",
+        "statedata": "Ontario（ON）安大略",
+        "cstate": "安大略",
+        "state": "Ontario",
+        "ansi": "ON"
+    },
+    {
+        "phoneCode": "579",
+        "city": "Granby",
+        "statedata": "Quebec（QC）魁北克",
+        "cstate": "魁北克",
+        "state": "Quebec",
+        "ansi": "QC"
+    },
+    {
+        "phoneCode": "581",
+        "city": "Quebec",
+        "statedata": "Quebec（QC）魁北克",
+        "cstate": "魁北克",
+        "state": "Quebec",
+        "ansi": "QC"
+    },
+    {
+        "phoneCode": "587",
+        "city": "Calgary",
+        "statedata": "Alberta（AB）艾伯塔",
+        "cstate": "艾伯塔",
+        "state": "Alberta",
+        "ansi": "AB"
+    },
+    {
+        "phoneCode": "604",
+        "city": "Vancouver",
+        "statedata": "British Columbia（BC）不列颠哥伦比亚",
+        "cstate": "不列颠哥伦比亚",
+        "state": "British Columbia",
+        "ansi": "BC"
+    },
+    {
+        "phoneCode": "613",
+        "city": "Ottawa",
+        "statedata": "Ontario（ON）安大略",
+        "cstate": "安大略",
+        "state": "Ontario",
+        "ansi": "ON"
+    },
+    {
+        "phoneCode": "639",
+        "city": "",
+        "statedata": "Saskatchewan（SK）萨斯喀彻温",
+        "cstate": "萨斯喀彻温",
+        "state": "Saskatchewan",
+        "ansi": "SK"
+    },
+    {
+        "phoneCode": "647",
+        "city": "Toronto",
+        "statedata": "Ontario（ON）安大略",
+        "cstate": "安大略",
+        "state": "Ontario",
+        "ansi": "ON"
+    },
+    {
+        "phoneCode": "705",
+        "city": "Sudbury",
+        "statedata": "Ontario（ON）安大略",
+        "cstate": "安大略",
+        "state": "Ontario",
+        "ansi": "ON"
+    },
+    {
+        "phoneCode": "709",
+        "city": "",
+        "statedata": "Newfoundland and Labrador（NL）纽芬兰与拉布拉多",
+        "cstate": "纽芬兰与拉布拉多",
+        "state": "Newfoundland and Labrador",
+        "ansi": "NL"
+    },
+    {
+        "phoneCode": "778",
+        "city": "Vancouver",
+        "statedata": "Quebec（QC）魁北克",
+        "cstate": "魁北克",
+        "state": "Quebec",
+        "ansi": "QC"
+    },
+    {
+        "phoneCode": "780",
+        "city": "Edmonton",
+        "statedata": "Alberta（AB）艾伯塔",
+        "cstate": "艾伯塔",
+        "state": "Alberta",
+        "ansi": "AB"
+    },
+    {
+        "phoneCode": "782",
+        "city": "",
+        "statedata": "Nova Scotia（NS）新斯科舍",
+        "cstate": "新斯科舍",
+        "state": "Nova Scotia",
+        "ansi": "NS"
+    },
+    {
+        "phoneCode": "782",
+        "city": "",
+        "statedata": "Prince Edward Island（PE）爱德华王子岛",
+        "cstate": "爱德华王子岛",
+        "state": "Prince Edward Island",
+        "ansi": "PE"
+    },
+    {
+        "phoneCode": "807",
+        "city": "Kenora",
+        "statedata": "Ontario（ON）安大略",
+        "cstate": "安大略",
+        "state": "Ontario",
+        "ansi": "ON"
+    },
+    {
+        "phoneCode": "819",
+        "city": "Sherbrooke",
+        "statedata": "Quebec（QC）魁北克",
+        "cstate": "魁北克",
+        "state": "Quebec",
+        "ansi": "QC"
+    },
+    {
+        "phoneCode": "825",
+        "city": "Calgary",
+        "statedata": "Alberta（AB）艾伯塔",
+        "cstate": "艾伯塔",
+        "state": "Alberta",
+        "ansi": "AB"
+    },
+    {
+        "phoneCode": "867",
+        "city": "",
+        "statedata": "Nunavut（NU）努纳武特",
+        "cstate": "努纳武特",
+        "state": "Nunavut",
+        "ansi": "NU"
+    },
+    {
+        "phoneCode": "867",
+        "city": "",
+        "statedata": "Yukon（YT）育空",
+        "cstate": "育空",
+        "state": "Yukon",
+        "ansi": "YT"
+    },
+    {
+        "phoneCode": "873",
+        "city": "Sherbrooke",
+        "statedata": "Quebec（QC）魁北克",
+        "cstate": "魁北克",
+        "state": "Quebec",
+        "ansi": "QC"
+    },
+    {
+        "phoneCode": "902",
+        "city": "",
+        "statedata": "Nova Scotia（NS）新斯科舍",
+        "cstate": "新斯科舍",
+        "state": "Nova Scotia",
+        "ansi": "NS"
+    },
+    {
+        "phoneCode": "902",
+        "city": "",
+        "statedata": "Prince Edward Island（PE）爱德华王子岛",
+        "cstate": "爱德华王子岛",
+        "state": "Prince Edward Island",
+        "ansi": "PE"
+    },
+    {
+        "phoneCode": "905",
+        "city": "Hamilton",
+        "statedata": "Ontario（ON）安大略",
+        "cstate": "安大略",
+        "state": "Ontario",
+        "ansi": "ON"
+    }
+]

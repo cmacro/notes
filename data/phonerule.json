@@ -1,0 +1,1690 @@
+[
+    {
+        "name": "Afghanistan",
+        "cname": "阿富汗",
+        "code": "93",
+        "phonelen": 9,
+        "segments": "70、75、77-79",
+        "note": "-"
+    },
+    {
+        "name": "Albania",
+        "cname": "阿尔巴尼亚",
+        "code": "355",
+        "phonelen": 9,
+        "segments": "67-69",
+        "note": "-"
+    },
+    {
+        "name": "Algeria",
+        "cname": "阿尔及利亚",
+        "code": "213",
+        "phonelen": 9,
+        "segments": "5-7",
+        "note": "-"
+    },
+    {
+        "name": "American Samoa",
+        "cname": "美属萨摩亚",
+        "code": "1684",
+        "phonelen": 7,
+        "segments": "252、254、256、733",
+        "note": "-"
+    },
+    {
+        "name": "Andorra",
+        "cname": "安道尔",
+        "code": "376",
+        "phonelen": 9,
+        "segments": "3、4、6",
+        "note": "-"
+    },
+    {
+        "name": "Angola",
+        "cname": "安哥拉",
+        "code": "244",
+        "phonelen": 9,
+        "segments": "91、923、93",
+        "note": "2开头是固话。"
+    },
+    {
+        "name": "Anguilla",
+        "cname": "安圭拉",
+        "code": "1264",
+        "phonelen": 7,
+        "segments": "53、58、7",
+        "note": "-"
+    },
+    {
+        "name": "Antigua and Barbuda",
+        "cname": "安提瓜和巴布达",
+        "code": "1268",
+        "phonelen": 7,
+        "segments": "464、7",
+        "note": "-"
+    },
+    {
+        "name": "Argentina",
+        "cname": "阿根廷",
+        "code": "54",
+        "phonelen": 10,
+        "segments": "用户号：11、15",
+        "note": "号码结构是区号+用户号。"
+    },
+    {
+        "name": "Armenia",
+        "cname": "亚美尼亚",
+        "code": "374",
+        "phonelen": 8,
+        "segments": "41、43-55、77、88、91、93-96、98、99",
+        "note": "-"
+    },
+    {
+        "name": "Aruba",
+        "cname": "阿鲁巴",
+        "code": "297",
+        "phonelen": 7,
+        "segments": "56、592-594、597、598、660、661、622、630、640、641、690、73、74、995-998",
+        "note": "28/501开头是网络语音电讯业务。"
+    },
+    {
+        "name": "Australia",
+        "cname": "澳大利亚",
+        "code": "61",
+        "phonelen": 9,
+        "segments": "4、5",
+        "note": "2/3/7/8开头是固话。"
+    },
+    {
+        "name": "Austria",
+        "cname": "奥地利",
+        "code": "43",
+        "phonelen": 10,
+        "segments": "67-71",
+        "note": "-"
+    },
+    {
+        "name": "Azerbaijan",
+        "cname": "阿塞拜疆",
+        "code": "994",
+        "phonelen": 9,
+        "segments": "40、44、46、50、51、55、60、70、77",
+        "note": "1/2/3开头是固话。"
+    },
+    {
+        "name": "Bahamas",
+        "cname": "巴哈马",
+        "code": "1242",
+        "phonelen": 7,
+        "segments": "357、359、375、376、395、421-429、431-439、441-449、451-458、462-468、470-479、481、524、525、533、535、544、551-559、565、577、636、646、727、738、801-810、812-829、899",
+        "note": "-"
+    },
+    {
+        "name": "Bahrain",
+        "cname": "巴林",
+        "code": "973",
+        "phonelen": 8,
+        "segments": "320-323、330-345、350-351、353、355、356、359、360-379、380-384、387-390、630、6333、6361、6366、663、6633-6639、666、6670-6676、669",
+        "note": "6/7开头是通用号码。1开头是固话。"
+    },
+    {
+        "name": "Bangladesh",
+        "cname": "孟加拉国",
+        "code": "880",
+        "phonelen": 8,
+        "segments": "11、15-19",
+        "note": "-"
+    },
+    {
+        "name": "Barbados",
+        "cname": "巴巴多斯",
+        "code": "1246",
+        "phonelen": 7,
+        "segments": "230-255、256-269、280-289、450-459、820-859、883",
+        "note": "-"
+    },
+    {
+        "name": "Belarus",
+        "cname": "白俄罗斯",
+        "code": "375",
+        "phonelen": 9,
+        "segments": "255-257、259、291-293、295-299、33、44",
+        "note": "-"
+    },
+    {
+        "name": "Belgium",
+        "cname": "比利时",
+        "code": "32",
+        "phonelen": 9,
+        "segments": "455、456、460、4618、4630、4651-4667、4669、4671、4672、4674、4676、4677、4679、4681-4689、470-479、4805、4809、483-489、490-499",
+        "note": "-"
+    },
+    {
+        "name": "Belize",
+        "cname": "伯利兹",
+        "code": "501",
+        "phonelen": 7,
+        "segments": "6",
+        "note": "-"
+    },
+    {
+        "name": "Benin",
+        "cname": "贝宁",
+        "code": "229",
+        "phonelen": 8,
+        "segments": "90、93、95、97",
+        "note": "-"
+    },
+    {
+        "name": "Bermuda",
+        "cname": "百慕大群岛",
+        "code": "1441",
+        "phonelen": 7,
+        "segments": "3、500-539、59、7",
+        "note": "-"
+    },
+    {
+        "name": "Bhutan",
+        "cname": "不丹",
+        "code": "975",
+        "phonelen": 8,
+        "segments": "17、77",
+        "note": "-"
+    },
+    {
+        "name": "Bolivia",
+        "cname": "玻利维亚",
+        "code": "591",
+        "phonelen": 8,
+        "segments": "70-72、77",
+        "note": "固话是7位数。"
+    },
+    {
+        "name": "Bosnia and Herzegovina",
+        "cname": "波斯尼亚和黑塞哥维那",
+        "code": "387",
+        "phonelen": 8,
+        "segments": "60-67",
+        "note": "-"
+    },
+    {
+        "name": "Botswana",
+        "cname": "博茨瓦纳",
+        "code": "267",
+        "phonelen": 8,
+        "segments": "71-73、740-747、750-759、760-769、770-771、774-777",
+        "note": "79开头是虚拟号。"
+    },
+    {
+        "name": "Brazil",
+        "cname": "巴西",
+        "code": "55",
+        "phonelen": 9,
+        "segments": "9",
+        "note": "-"
+    },
+    {
+        "name": "Brunei",
+        "cname": "文莱",
+        "code": "673",
+        "phonelen": 7,
+        "segments": "228、229、71、72、81-83、86-89",
+        "note": "-"
+    },
+    {
+        "name": "Bulgaria",
+        "cname": "保加利亚",
+        "code": "359",
+        "phonelen": 9,
+        "segments": "87-89、9",
+        "note": "-"
+    },
+    {
+        "name": "Burkina Faso",
+        "cname": "布基纳法索",
+        "code": "226",
+        "phonelen": 8,
+        "segments": "51、55、56、60-69、70-79",
+        "note": "2开头是固话。"
+    },
+    {
+        "name": "Burundi",
+        "cname": "布隆迪",
+        "code": "257",
+        "phonelen": 8,
+        "segments": "29、3、6、7",
+        "note": "22开头是固话。"
+    },
+    {
+        "name": "Cambodia",
+        "cname": "柬埔寨",
+        "code": "855",
+        "phonelen": 8,
+        "segments": "10-18",
+        "note": "其他号段：31、38、60、61、66-71、76-78、80、81、83-89、90-93、95-99"
+    },
+    {
+        "name": "Cameroon",
+        "cname": "喀麦隆",
+        "code": "237",
+        "phonelen": 9,
+        "segments": "65-69",
+        "note": "222/233开头是固话。"
+    },
+    {
+        "name": "Canada",
+        "cname": "加拿大",
+        "code": "1",
+        "phonelen": 10,
+        "segments": "500、521、522、533、544、566、577、588",
+        "note": "-"
+    },
+    {
+        "name": "Cape Verde",
+        "cname": "佛得角",
+        "code": "238",
+        "phonelen": 7,
+        "segments": "59、9",
+        "note": "2开头是固话。"
+    },
+    {
+        "name": "Cayman Islands",
+        "cname": "开曼群岛",
+        "code": "1345",
+        "phonelen": 7,
+        "segments": "3、5、9",
+        "note": "-"
+    },
+    {
+        "name": "Central African Republic",
+        "cname": "中非共和国",
+        "code": "236",
+        "phonelen": 8,
+        "segments": "70、75、77",
+        "note": "21/22开头是固话。"
+    },
+    {
+        "name": "Chad",
+        "cname": "乍得",
+        "code": "235",
+        "phonelen": 8,
+        "segments": "63、65、66、95、99",
+        "note": "22/77开头是固话。"
+    },
+    {
+        "name": "Chile",
+        "cname": "智利",
+        "code": "56",
+        "phonelen": 9,
+        "segments": "93-99",
+        "note": "-"
+    },
+    {
+        "name": "Chinese Mainland",
+        "cname": "中国大陆",
+        "code": "86",
+        "phonelen": 11,
+        "segments": "中国移动：1340-1348、135、136、137、138、139、147(上网卡)、150、151、152、157、158、159、178、182、183、184、187、188、198\n中国联通：130、131、132、145(上网卡)、155、156、166、175、176、185、186\n中国电信：133、149(上网卡)、153、173、177、180、181、189、191、193、199\n卫星手机（中国电信经营）：1349、17400-17405\n海事卫星电话：1749\n中国广电：192\n\n注：17406-17412号段由工业和信息化部应急通信保障中心持有，用于应急通信需求。",
+        "note": "虚拟运营商专属号段：\n\n中国移动：165、1703、1705、1706\n中国联通：167、1704、1707、1708、1709、171\n中国电信：1700、1701、1702\n\n物联网业务专用号段：\n\n中国移动：1440X、148XX、172\n中国联通：146XX\n中国电信：1410X\n\n注：物联网号码以1开头，共13位数。"
+    },
+    {
+        "name": "Colombia",
+        "cname": "哥伦比亚",
+        "code": "57",
+        "phonelen": 10,
+        "segments": "300、301、310-312、315、316",
+        "note": "固话是7位数。"
+    },
+    {
+        "name": "Comoros",
+        "cname": "科摩罗",
+        "code": "269",
+        "phonelen": 7,
+        "segments": "3、4",
+        "note": "74/75/76/77开头是固话。"
+    },
+    {
+        "name": "Cook Islands",
+        "cname": "库克群岛",
+        "code": "682",
+        "phonelen": 5,
+        "segments": "54、55、7",
+        "note": "2/3/4开头是固话。"
+    },
+    {
+        "name": "Costa Rica",
+        "cname": "哥斯达黎加",
+        "code": "506",
+        "phonelen": 8,
+        "segments": "500-504、570、571、6、7、8",
+        "note": "2开头是固话。"
+    },
+    {
+        "name": "Côte d'Ivoire",
+        "cname": "科特迪瓦",
+        "code": "225",
+        "phonelen": 8,
+        "segments": "01-09、44-50、54、60、66-67、69、77-78",
+        "note": "2/3开头是固话。"
+    },
+    {
+        "name": "Croatia",
+        "cname": "克罗地亚",
+        "code": "385",
+        "phonelen": 9,
+        "segments": "91、92、95、98、99",
+        "note": "1/2/3/4/5开头是固话。"
+    },
+    {
+        "name": "Curacao",
+        "cname": "库拉索",
+        "code": "599",
+        "phonelen": 7,
+        "segments": "51、52、54、56、6",
+        "note": "4/50/7/8开头是固话。"
+    },
+    {
+        "name": "Cyprus",
+        "cname": "塞浦路斯",
+        "code": "357",
+        "phonelen": 8,
+        "segments": "94-97、99",
+        "note": "2开头是固话。"
+    },
+    {
+        "name": "Czechia",
+        "cname": "捷克",
+        "code": "420",
+        "phonelen": 9,
+        "segments": "601-608、70、72、73、77、790、910",
+        "note": "2/3/4/5开头是固话。"
+    },
+    {
+        "name": "Democratic Republic of the Congo",
+        "cname": "刚果民主共和国",
+        "code": "243",
+        "phonelen": 9,
+        "segments": "80-82、84、88、89、97-99",
+        "note": "-"
+    },
+    {
+        "name": "Denmark",
+        "cname": "丹麦",
+        "code": "45",
+        "phonelen": 8,
+        "segments": "20-31、342、344-349、356-357、359、362、365-366、389、398、40-42、431、441、462、466、468、472、474、476、478、485-486、488-489、493-496、498、499、50-53、542-543、545、551-552、556、571-574、577、579、584、586-587、589、597-598、60-61、627、629、641、649、658、662-665、667、692-694、697、71、771-772、782-783、785-786、788-789、81、826-827、829、91-93",
+        "note": "-"
+    },
+    {
+        "name": "Djibouti",
+        "cname": "吉布提",
+        "code": "253",
+        "phonelen": 8,
+        "segments": "7",
+        "note": "21/27开头是固话。"
+    },
+    {
+        "name": "Dominica",
+        "cname": "多米尼克",
+        "code": "1767",
+        "phonelen": 7,
+        "segments": "225、235、245、265、275-277、285、295、315-317、612-617",
+        "note": "-"
+    },
+    {
+        "name": "Dominican Republic",
+        "cname": "多米尼加共和国",
+        "code": "1809/1829/1849",
+        "phonelen": 7,
+        "segments": "201、204、213、22230-22259、223、22430-22459、249-258、267-272、283、292-293、299、301-310、312、314、321-327、330、340-345、348、350、355、360、366、370、37400-37469、376、383、395-396、399、415-424、428-432、436-449、451-459、47010-47089、48100-48189、49、515、519、54290-54298、54320-54399、545、60410-60499、624、628-635、637、639-653、656、658-671、696-697、707、710、723、727、729、749-769、771-777、785-787、796、801-805、815-818、829、834-835、837-858、860-869、873-890、912-918、928-929、932、938-946、952-953、972-982、990-999",
+        "note": "-"
+    },
+    {
+        "name": "Ecuador",
+        "cname": "厄瓜多尔",
+        "code": "593",
+        "phonelen": 7,
+        "segments": "8、9",
+        "note": "2/4开头是固话。"
+    },
+    {
+        "name": "Egypt",
+        "cname": "埃及",
+        "code": "20",
+        "phonelen": 10,
+        "segments": "10-12、15",
+        "note": "-"
+    },
+    {
+        "name": "El Salvador",
+        "cname": "萨尔瓦多",
+        "code": "503",
+        "phonelen": 8,
+        "segments": "6、7",
+        "note": "2开头是固话。"
+    },
+    {
+        "name": "Equatorial Guinea",
+        "cname": "赤道几内亚",
+        "code": "240",
+        "phonelen": 9,
+        "segments": "2、5",
+        "note": "3开头是固话。"
+    },
+    {
+        "name": "Eritrea",
+        "cname": "厄立特里亚",
+        "code": "291",
+        "phonelen": 7,
+        "segments": "71-73",
+        "note": "1开头是固话。"
+    },
+    {
+        "name": "Estonia",
+        "cname": "爱沙尼亚",
+        "code": "372",
+        "phonelen": 7,
+        "segments": "5",
+        "note": "-"
+    },
+    {
+        "name": "Eswatini",
+        "cname": "斯威士兰",
+        "code": "268",
+        "phonelen": 8,
+        "segments": "76-78",
+        "note": "2/3开头是固话。"
+    },
+    {
+        "name": "Ethiopia",
+        "cname": "埃塞俄比亚",
+        "code": "251",
+        "phonelen": 9,
+        "segments": "9",
+        "note": "-"
+    },
+    {
+        "name": "Faroe Islands",
+        "cname": "法罗群岛",
+        "code": "298",
+        "phonelen": 6,
+        "segments": "21-29、5、71-79、91-99",
+        "note": "70开头是分享电话号。90开头是收费资讯号。"
+    },
+    {
+        "name": "Fiji",
+        "cname": "斐济",
+        "code": "679",
+        "phonelen": 7,
+        "segments": "9",
+        "note": "3/6/8开头是固话。"
+    },
+    {
+        "name": "Finland",
+        "cname": "芬兰",
+        "code": "358",
+        "phonelen": 9,
+        "segments": "40-42、432、438-439、44、450、4550、4555-4556、4558-4559、456、4570、4573、4575-4579、46、50",
+        "note": "-"
+    },
+    {
+        "name": "France",
+        "cname": "法国",
+        "code": "33",
+        "phonelen": 9,
+        "segments": "603、607-609、610-619、620-626、630-632、654、660-669、670-679、680-689、693、698-699",
+        "note": "-"
+    },
+    {
+        "name": "French Guiana",
+        "cname": "法属圭亚那",
+        "code": "594",
+        "phonelen": 9,
+        "segments": "694、9764-9765",
+        "note": "594开头是固话。"
+    },
+    {
+        "name": "French Polynesia",
+        "cname": "法属波利尼西亚",
+        "code": "689",
+        "phonelen": 8,
+        "segments": "87、88、89",
+        "note": "-"
+    },
+    {
+        "name": "Gabon",
+        "cname": "加蓬",
+        "code": "241",
+        "phonelen": 8,
+        "segments": "2-7",
+        "note": "1开头是固话。"
+    },
+    {
+        "name": "Gambia",
+        "cname": "冈比亚",
+        "code": "220",
+        "phonelen": 7,
+        "segments": "2、3、6、7、9",
+        "note": "-"
+    },
+    {
+        "name": "Georgia",
+        "cname": "格鲁吉亚",
+        "code": "995",
+        "phonelen": 9,
+        "segments": "5",
+        "note": "3/4开头是固话。"
+    },
+    {
+        "name": "Germany",
+        "cname": "德国",
+        "code": "49",
+        "phonelen": 11,
+        "segments": "15020、15050、15080、1511-1512、1514-1517、1520-1523、1525-1526、1529、15555、15630、15678、1570、1573、1575、1577-1579、15888、1590、160、162-163、170-179",
+        "note": "-"
+    },
+    {
+        "name": "Ghana",
+        "cname": "加纳",
+        "code": "233",
+        "phonelen": 9,
+        "segments": "2540、557、558",
+        "note": "3开头是固话。"
+    },
+    {
+        "name": "Gibraltar",
+        "cname": "直布罗陀",
+        "code": "350",
+        "phonelen": 8,
+        "segments": "5、6",
+        "note": "2开头是固话。"
+    },
+    {
+        "name": "Greece",
+        "cname": "希腊",
+        "code": "30",
+        "phonelen": 10,
+        "segments": "693、694、697、699",
+        "note": "2开头是固话。"
+    },
+    {
+        "name": "Greenland",
+        "cname": "格陵兰岛",
+        "code": "299",
+        "phonelen": 6,
+        "segments": "21-29、42-49、51-59",
+        "note": "3/6/8/9开头是固话。"
+    },
+    {
+        "name": "Grenada",
+        "cname": "格林纳达",
+        "code": "1473",
+        "phonelen": 7,
+        "segments": "402-407、409-410、414-420、458、520-521、533-538、901",
+        "note": "-"
+    },
+    {
+        "name": "Guadeloupe",
+        "cname": "瓜德罗普岛",
+        "code": "590",
+        "phonelen": 9,
+        "segments": "69、97",
+        "note": "59开头是固话。"
+    },
+    {
+        "name": "Guam",
+        "cname": "关岛",
+        "code": "1671",
+        "phonelen": 7,
+        "segments": "482-483、488-489、678、685-689、707、727、747、777、787-788、797、838、848、858、868、878、888、898、929、967、972、977、987-988、997-998",
+        "note": "-"
+    },
+    {
+        "name": "Guatemala",
+        "cname": "危地马拉",
+        "code": "502",
+        "phonelen": 8,
+        "segments": "4、5",
+        "note": "2/6/7开头是固话。"
+    },
+    {
+        "name": "Guinea",
+        "cname": "几内亚",
+        "code": "224",
+        "phonelen": 9,
+        "segments": "60、62、63",
+        "note": "30开头是固话。"
+    },
+    {
+        "name": "Guinea-Bissau",
+        "cname": "几内亚比绍共和国",
+        "code": "245",
+        "phonelen": 9,
+        "segments": "95-97",
+        "note": "4开头是固话。"
+    },
+    {
+        "name": "Guyana",
+        "cname": "圭亚那",
+        "code": "592",
+        "phonelen": 7,
+        "segments": "6",
+        "note": "2/3/4/7开头是固话。"
+    },
+    {
+        "name": "Haiti",
+        "cname": "海地",
+        "code": "509",
+        "phonelen": 8,
+        "segments": "34-39",
+        "note": "2开头是固话。9开头是虚拟号。"
+    },
+    {
+        "name": "Honduras",
+        "cname": "洪都拉斯",
+        "code": "504",
+        "phonelen": 8,
+        "segments": "3、7-9",
+        "note": "2开头是固话。"
+    },
+    {
+        "name": "Hong Kong, China",
+        "cname": "中国香港",
+        "code": "852",
+        "phonelen": 8,
+        "segments": "5-7、9",
+        "note": "2/3开头是固话。"
+    },
+    {
+        "name": "Hungary",
+        "cname": "匈牙利",
+        "code": "36",
+        "phonelen": 9,
+        "segments": "20、30、70、71",
+        "note": "-"
+    },
+    {
+        "name": "Iceland",
+        "cname": "冰岛",
+        "code": "354",
+        "phonelen": 7,
+        "segments": "6、7、8",
+        "note": "4/5开头是固话。"
+    },
+    {
+        "name": "India",
+        "cname": "印度",
+        "code": "91",
+        "phonelen": 10,
+        "segments": "7357、7503、7504、8000、900、9928、9549、6367、63",
+        "note": "-"
+    },
+    {
+        "name": "Indonesia",
+        "cname": "印度尼西亚",
+        "code": "62",
+        "phonelen": 10,
+        "segments": "81-83、85-86、870、88、9",
+        "note": "17开头是IP电话。2/3/4/7开头是固话。"
+    },
+    {
+        "name": "Iraq",
+        "cname": "伊拉克",
+        "code": "964",
+        "phonelen": 10,
+        "segments": "73、7400、7401、7435、7444、7480-7481、7491、7494、75-79",
+        "note": "-"
+    },
+    {
+        "name": "Ireland",
+        "cname": "爱尔兰",
+        "code": "353",
+        "phonelen": 9,
+        "segments": "85、86、87",
+        "note": "-"
+    },
+    {
+        "name": "Israel",
+        "cname": "以色列",
+        "code": "972",
+        "phonelen": 9,
+        "segments": "50-54、56、58-59",
+        "note": "55开头是虚拟网。7开头是非地理固话，固话是8位数。"
+    },
+    {
+        "name": "Italy",
+        "cname": "意大利",
+        "code": "39",
+        "phonelen": 10,
+        "segments": "328-330、333-339、347-349、360、368、380、388-389",
+        "note": "-"
+    },
+    {
+        "name": "Jamaica",
+        "cname": "牙买加",
+        "code": "1876",
+        "phonelen": 7,
+        "segments": "210、301-304、320、322、330-414、416-494、570-580、589、700、707、770-779、781-784、787-793、796-799、806-809、812-899、909、919、990、995、997、999",
+        "note": "-"
+    },
+    {
+        "name": "Japan",
+        "cname": "日本",
+        "code": "81",
+        "phonelen": 10,
+        "segments": "70、80、90",
+        "note": "-"
+    },
+    {
+        "name": "Jordan",
+        "cname": "约旦",
+        "code": "962",
+        "phonelen": 9,
+        "segments": "77-79",
+        "note": "2/3/5/6开头是固话，固话是7位数。"
+    },
+    {
+        "name": "Kazakhstan",
+        "cname": "哈萨克斯坦",
+        "code": "7",
+        "phonelen": 10,
+        "segments": "6",
+        "note": "7开头是固话。"
+    },
+    {
+        "name": "Kenya",
+        "cname": "肯尼亚",
+        "code": "254",
+        "phonelen": 9,
+        "segments": "10-11、70-73、740-748、75-79",
+        "note": "-"
+    },
+    {
+        "name": "Kiribati",
+        "cname": "基里巴斯",
+        "code": "686",
+        "phonelen": 7,
+        "segments": "630、72、7300-7305、7314、733-749、780-785",
+        "note": "-"
+    },
+    {
+        "name": "Kuwait",
+        "cname": "科威特",
+        "code": "965",
+        "phonelen": 8,
+        "segments": "5、6、9",
+        "note": "2开头是固话。"
+    },
+    {
+        "name": "Kyrgyzstan",
+        "cname": "吉尔吉斯斯坦",
+        "code": "996",
+        "phonelen": 9,
+        "segments": "22、51、54-57、70、77、996、999",
+        "note": "3开头是固话。52开头是卫星电话。"
+    },
+    {
+        "name": "Laos",
+        "cname": "老挝",
+        "code": "856",
+        "phonelen": 10,
+        "segments": "20",
+        "note": "固话是8位数。"
+    },
+    {
+        "name": "Latvia",
+        "cname": "拉脱维亚",
+        "code": "371",
+        "phonelen": 8,
+        "segments": "2",
+        "note": "5/6/7开头是固话。"
+    },
+    {
+        "name": "Lebanon",
+        "cname": "黎巴嫩",
+        "code": "961",
+        "phonelen": 8,
+        "segments": "30-39、700-709、710-719、761-765、791-793、810-819",
+        "note": "固话是7位数。"
+    },
+    {
+        "name": "Lesotho",
+        "cname": "莱索托",
+        "code": "266",
+        "phonelen": 8,
+        "segments": "5、6",
+        "note": "2开头是固话。"
+    },
+    {
+        "name": "Liberia",
+        "cname": "利比里亚",
+        "code": "231",
+        "phonelen": 9,
+        "segments": "55、77、88",
+        "note": "3开头是固话。"
+    },
+    {
+        "name": "Libya",
+        "cname": "利比亚",
+        "code": "218",
+        "phonelen": 8,
+        "segments": "9",
+        "note": "-"
+    },
+    {
+        "name": "Liechtenstein",
+        "cname": "列支敦士登",
+        "code": "423",
+        "phonelen": 7,
+        "segments": "6499、650-653、660、6610、6620、6626-6629、6637-6639、69742、6977-6978、742、77-79",
+        "note": "2/3开头是固话。"
+    },
+    {
+        "name": "Lithuania",
+        "cname": "立陶宛",
+        "code": "370",
+        "phonelen": 8,
+        "segments": "679-686、688-689、698-699",
+        "note": "-"
+    },
+    {
+        "name": "Luxembourg",
+        "cname": "卢森堡",
+        "code": "352",
+        "phonelen": 9,
+        "segments": "621、661、691",
+        "note": "-"
+    },
+    {
+        "name": "Macao, China",
+        "cname": "中国澳门",
+        "code": "853",
+        "phonelen": 8,
+        "segments": "6",
+        "note": "8开头是固话。"
+    },
+    {
+        "name": "North Macedonia",
+        "cname": "北马其顿",
+        "code": "389",
+        "phonelen": 8,
+        "segments": "70-73、75-78",
+        "note": "2/3/4开头是固话。"
+    },
+    {
+        "name": "Madagascar",
+        "cname": "马达加斯加",
+        "code": "261",
+        "phonelen": 9,
+        "segments": "32-34、39",
+        "note": "2开头是固话。"
+    },
+    {
+        "name": "Malawi",
+        "cname": "马拉维",
+        "code": "265",
+        "phonelen": 9,
+        "segments": "1、7-9",
+        "note": "1开头7位数是固话。"
+    },
+    {
+        "name": "Malaysia",
+        "cname": "马来西亚",
+        "code": "60",
+        "phonelen": 11,
+        "segments": "1\n\n注：支持携带或不带号码前的0。",
+        "note": "15开头是IP电话或宽带。"
+    },
+    {
+        "name": "Maldives",
+        "cname": "马尔代夫",
+        "code": "960",
+        "phonelen": 7,
+        "segments": "72-79、91、94-99",
+        "note": "3/6开头是固话。"
+    },
+    {
+        "name": "Mali",
+        "cname": "马里",
+        "code": "223",
+        "phonelen": 8,
+        "segments": "2079、217、500-504、6-7、82-83、89、90-99",
+        "note": "-"
+    },
+    {
+        "name": "Malta",
+        "cname": "马耳他",
+        "code": "356",
+        "phonelen": 8,
+        "segments": "79、99",
+        "note": "217开头是邮箱号码。7117开头是传呼机。2开头是固话。"
+    },
+    {
+        "name": "Martinique",
+        "cname": "马提尼克",
+        "code": "596",
+        "phonelen": 9,
+        "segments": "6962-6964、6967-6969",
+        "note": "596开头是固话。"
+    },
+    {
+        "name": "Mauritania",
+        "cname": "毛里塔尼亚",
+        "code": "222",
+        "phonelen": 8,
+        "segments": "22、27、33、36-37、44、46-47",
+        "note": "-"
+    },
+    {
+        "name": "Mauritius",
+        "cname": "毛里求斯",
+        "code": "230",
+        "phonelen": 8,
+        "segments": "525、528-529、5421-5423、5428-5429、5472-5479、548-549、570-579、580-586、5871、5875-5878、588-598",
+        "note": "-"
+    },
+    {
+        "name": "Mayotte",
+        "cname": "马约特",
+        "code": "262",
+        "phonelen": 9,
+        "segments": "639",
+        "note": "269开头是固话。"
+    },
+    {
+        "name": "Mexico",
+        "cname": "墨西哥",
+        "code": "52",
+        "phonelen": 10,
+        "segments": "固话和手机号规则一致无法区分。",
+        "note": "-"
+    },
+    {
+        "name": "Moldova",
+        "cname": "摩尔多瓦",
+        "code": "373",
+        "phonelen": 8,
+        "segments": "60、610-611、620-621、671-677、68-69、760、767、780-788、79",
+        "note": "2/5开头是固话。"
+    },
+    {
+        "name": "Monaco",
+        "cname": "摩纳哥",
+        "code": "377",
+        "phonelen": 8,
+        "segments": "3、4、6",
+        "note": "8/9开头是固话。"
+    },
+    {
+        "name": "Mongolia",
+        "cname": "蒙古",
+        "code": "976",
+        "phonelen": 8,
+        "segments": "80、83、85-86、88-91、93-99",
+        "note": "7开头是虚拟号或固话。"
+    },
+    {
+        "name": "Montenegro",
+        "cname": "黑山",
+        "code": "382",
+        "phonelen": 8,
+        "segments": "60、63、66-69",
+        "note": "78开头是虚拟号。"
+    },
+    {
+        "name": "Montserrat",
+        "cname": "蒙特塞拉特岛",
+        "code": "1664",
+        "phonelen": 7,
+        "segments": "固话和手机号规则一致无法区分。",
+        "note": "-"
+    },
+    {
+        "name": "Morocco",
+        "cname": "摩洛哥",
+        "code": "212",
+        "phonelen": 9,
+        "segments": "600-608、610-681、694-695、697-699",
+        "note": "5开头是固话。"
+    },
+    {
+        "name": "Mozambique",
+        "cname": "莫桑比克",
+        "code": "258",
+        "phonelen": 9,
+        "segments": "82-87",
+        "note": "2开头8位数是固话。"
+    },
+    {
+        "name": "Myanmar",
+        "cname": "缅甸",
+        "code": "95",
+        "phonelen": 10,
+        "segments": "9",
+        "note": "-"
+    },
+    {
+        "name": "Namibia",
+        "cname": "纳米比亚",
+        "code": "264",
+        "phonelen": 9,
+        "segments": "60、82、81、85",
+        "note": "6开头8位数是固话。"
+    },
+    {
+        "name": "Nepal",
+        "cname": "尼泊尔",
+        "code": "977",
+        "phonelen": 10,
+        "segments": "98",
+        "note": "-"
+    },
+    {
+        "name": "Netherlands",
+        "cname": "荷兰",
+        "code": "31",
+        "phonelen": 9,
+        "segments": "6",
+        "note": "-"
+    },
+    {
+        "name": "New Caledonia",
+        "cname": "新喀里多尼亚",
+        "code": "687",
+        "phonelen": 6,
+        "segments": "73-79、80-87、89、9",
+        "note": "36开头是虚拟号。2/3/4开头是固话。"
+    },
+    {
+        "name": "New Zealand",
+        "cname": "新西兰",
+        "code": "64",
+        "phonelen": 8,
+        "segments": "2",
+        "note": "-"
+    },
+    {
+        "name": "Nicaragua",
+        "cname": "尼加拉瓜",
+        "code": "505",
+        "phonelen": 8,
+        "segments": "5、7、8",
+        "note": "2开头是固话。"
+    },
+    {
+        "name": "Niger",
+        "cname": "尼日尔",
+        "code": "227",
+        "phonelen": 8,
+        "segments": "93、94、96",
+        "note": "20开头是固话。"
+    },
+    {
+        "name": "Nigeria",
+        "cname": "尼日利亚",
+        "code": "234",
+        "phonelen": 10,
+        "segments": "70、80、81、90",
+        "note": "-"
+    },
+    {
+        "name": "Norway",
+        "cname": "挪威",
+        "code": "47",
+        "phonelen": 8,
+        "segments": "4、9",
+        "note": "2/3/5/6/7开头是固话。"
+    },
+    {
+        "name": "Oman",
+        "cname": "阿曼",
+        "code": "968",
+        "phonelen": 8,
+        "segments": "71-72、78-79、90-99",
+        "note": "2开头是固话。"
+    },
+    {
+        "name": "Pakistan",
+        "cname": "巴基斯坦",
+        "code": "92",
+        "phonelen": 10,
+        "segments": "30-34",
+        "note": "-"
+    },
+    {
+        "name": "Palau",
+        "cname": "帕劳",
+        "code": "680",
+        "phonelen": 7,
+        "segments": "77、88",
+        "note": "-"
+    },
+    {
+        "name": "Palestine",
+        "cname": "巴勒斯坦",
+        "code": "970",
+        "phonelen": 9,
+        "segments": "56、59",
+        "note": "固话是8位数。"
+    },
+    {
+        "name": "Panama",
+        "cname": "巴拿马",
+        "code": "507",
+        "phonelen": 8,
+        "segments": "6",
+        "note": "-"
+    },
+    {
+        "name": "Papua New Guinea",
+        "cname": "巴布亚新几内亚",
+        "code": "675",
+        "phonelen": 8,
+        "segments": "70-79",
+        "note": "20开头是虚拟号。固话是7位数。"
+    },
+    {
+        "name": "Paraguay",
+        "cname": "巴拉圭",
+        "code": "595",
+        "phonelen": 9,
+        "segments": "961-963、971-973、975-976、981-985、991-993、995",
+        "note": "-"
+    },
+    {
+        "name": "Peru",
+        "cname": "秘鲁",
+        "code": "51",
+        "phonelen": 9,
+        "segments": "9",
+        "note": "-"
+    },
+    {
+        "name": "Philippines",
+        "cname": "菲律宾",
+        "code": "63",
+        "phonelen": 10,
+        "segments": "900、905-951、955-956、965-966、970、973-979、981、989、992、994-999",
+        "note": "-"
+    },
+    {
+        "name": "Poland",
+        "cname": "波兰",
+        "code": "48",
+        "phonelen": 9,
+        "segments": "5、600-605、607-609、691-692、7、8",
+        "note": "-"
+    },
+    {
+        "name": "Portugal",
+        "cname": "葡萄牙",
+        "code": "351",
+        "phonelen": 9,
+        "segments": "9",
+        "note": "2开头是固话。"
+    },
+    {
+        "name": "Puerto Rico",
+        "cname": "波多黎各",
+        "code": "1787",
+        "phonelen": 7,
+        "segments": "（787）201-210、212-226、228、231-249、295、297-299、301-310、312-329、331-342、344、346-354、356、358-368、370-394、396-410、412-433、436、438、440-443、445-455、457-463、466-467、469-470、472-475、477-479、481、484-499、501-510、512-519、525-533、536、539-542、546-550、552-557、559-560、562、564-568、570-579、581-587、590、593-599、601-608、610、612-619、624、627-640、642-649、662、664、666-669、671-678、685、688-692、696-698、702、709、717-718、800、810、901-905、907-910、918、922-923、925、929-930、932、934、938、940-943、946、948-949、951、955、960、962-964、967、969、972、974-975、979-981、983、988-990、994、996\n\n（939）203、207-208、216-219、223、228、232、240-241、252、292、308、322、325、332、334、339、349、350、366、388-389、397、400-418、429、452、475、488-489、539、579、628、630、639-640、642、644-645、717、732、777、865、891、940、969",
+        "note": "-"
+    },
+    {
+        "name": "Qatar",
+        "cname": "卡塔尔",
+        "code": "974",
+        "phonelen": 8,
+        "segments": "3、5-7",
+        "note": "4开头是固话，固话是7位数。"
+    },
+    {
+        "name": "Republic Of The Congo",
+        "cname": "刚果共和国",
+        "code": "242",
+        "phonelen": 9,
+        "segments": "01、04、05、06\n\n注：号码前的0不能删除",
+        "note": "2开头是固话。"
+    },
+    {
+        "name": "Réunion Island",
+        "cname": "留尼汪",
+        "code": "262",
+        "phonelen": 9,
+        "segments": "639、692-693",
+        "note": "262/263/269开头是固话。"
+    },
+    {
+        "name": "Romania",
+        "cname": "罗马尼亚",
+        "code": "40",
+        "phonelen": 9,
+        "segments": "72-76、78",
+        "note": "2/3开头是固话。"
+    },
+    {
+        "name": "Rwanda",
+        "cname": "卢旺达",
+        "code": "250",
+        "phonelen": 9,
+        "segments": "72、75、78",
+        "note": "25开头是固话。"
+    },
+    {
+        "name": "Saint Kitts and Nevis",
+        "cname": "圣基茨和尼维斯",
+        "code": "1869",
+        "phonelen": 7,
+        "segments": "556-558、565-567、660-665、667-669、760、762-766",
+        "note": "-"
+    },
+    {
+        "name": "Saint Lucia",
+        "cname": "圣露西亚",
+        "code": "1758",
+        "phonelen": 7,
+        "segments": "284-287、384、460-461、484-489、518-520、584、712-728",
+        "note": "-"
+    },
+    {
+        "name": "Saint Pierre and Miquelon",
+        "cname": "圣彼埃尔和密克隆岛",
+        "code": "508",
+        "phonelen": 6,
+        "segments": "-",
+        "note": "-"
+    },
+    {
+        "name": "Saint Vincent and The Grenadines",
+        "cname": "圣文森特和格林纳丁斯",
+        "code": "1784",
+        "phonelen": 7,
+        "segments": "430-434、454-455、489-495、526-534",
+        "note": "-"
+    },
+    {
+        "name": "Samoa",
+        "cname": "萨摩亚",
+        "code": "685",
+        "phonelen": 7,
+        "segments": "72、75-77",
+        "note": "-"
+    },
+    {
+        "name": "San Marino",
+        "cname": "圣马力诺",
+        "code": "378",
+        "phonelen": 8,
+        "segments": "6",
+        "note": "51/55/58开头是虚拟号。549开头是固话。"
+    },
+    {
+        "name": "Sao Tome and Principe",
+        "cname": "圣多美和普林西比",
+        "code": "239",
+        "phonelen": 7,
+        "segments": "9",
+        "note": "2开头是固话。"
+    },
+    {
+        "name": "Saudi Arabia",
+        "cname": "沙特阿拉伯",
+        "code": "966",
+        "phonelen": 9,
+        "segments": "50、51、53-56、59",
+        "note": "1开头是固话。"
+    },
+    {
+        "name": "Senegal",
+        "cname": "塞内加尔",
+        "code": "221",
+        "phonelen": 7,
+        "segments": "70、72、76-79",
+        "note": "3开头是固话。"
+    },
+    {
+        "name": "Serbia",
+        "cname": "塞尔维亚",
+        "code": "381",
+        "phonelen": 9,
+        "segments": "60-66、677-678、68-69",
+        "note": "1/2/3开头是固话。"
+    },
+    {
+        "name": "Seychelles",
+        "cname": "塞舌尔",
+        "code": "248",
+        "phonelen": 7,
+        "segments": "2",
+        "note": "4开头是固话。6开头是虚拟号。"
+    },
+    {
+        "name": "Sierra Leone",
+        "cname": "塞拉利昂",
+        "code": "232",
+        "phonelen": 8,
+        "segments": "21、25、30、33-34、40、44、50、55、66、75-79、88",
+        "note": "22/32/52开头是固话。"
+    },
+    {
+        "name": "Singapore",
+        "cname": "新加坡",
+        "code": "65",
+        "phonelen": 8,
+        "segments": "8、9",
+        "note": "6开头是固话。"
+    },
+    {
+        "name": "Sint Maarten (Dutch Part)",
+        "cname": "圣马丁岛（荷兰部分）",
+        "code": "1721",
+        "phonelen": 7,
+        "segments": "52、55、58",
+        "note": "54开头是固话。"
+    },
+    {
+        "name": "Slovakia",
+        "cname": "斯洛伐克",
+        "code": "421",
+        "phonelen": 9,
+        "segments": "901-908",
+        "note": "-"
+    },
+    {
+        "name": "Slovenia",
+        "cname": "斯洛文尼亚",
+        "code": "386",
+        "phonelen": 8,
+        "segments": "30-31、40-41、51、64、70-71",
+        "note": "49/59/81/82/83开头是虚拟号。"
+    },
+    {
+        "name": "Solomon Islands",
+        "cname": "所罗门群岛",
+        "code": "677",
+        "phonelen": 7,
+        "segments": "7-9",
+        "note": "固话是5位数。"
+    },
+    {
+        "name": "Somalia",
+        "cname": "索马里",
+        "code": "252",
+        "phonelen": 9,
+        "segments": "35、39、48、49、62、64-66、79、80、88",
+        "note": "-"
+    },
+    {
+        "name": "South Africa",
+        "cname": "南非",
+        "code": "27",
+        "phonelen": 9,
+        "segments": "62-65、72-73、82-84",
+        "note": "-"
+    },
+    {
+        "name": "South Korea",
+        "cname": "韩国",
+        "code": "82",
+        "phonelen": 10,
+        "segments": "11、13、16-19",
+        "note": "-"
+    },
+    {
+        "name": "Spain",
+        "cname": "西班牙",
+        "code": "34",
+        "phonelen": 9,
+        "segments": "607-609、629、639、670",
+        "note": "9开头是固话。"
+    },
+    {
+        "name": "Sri Lanka",
+        "cname": "斯里兰卡",
+        "code": "94",
+        "phonelen": 9,
+        "segments": "7",
+        "note": "-"
+    },
+    {
+        "name": "Suriname",
+        "cname": "苏里南",
+        "code": "597",
+        "phonelen": 7,
+        "segments": "68、71-73、75、77、81-89",
+        "note": "2-6开头是固话，固话是6位数。"
+    },
+    {
+        "name": "Sweden",
+        "cname": "瑞典",
+        "code": "46",
+        "phonelen": 9,
+        "segments": "70、72-73、75-77、79",
+        "note": "-"
+    },
+    {
+        "name": "Switzerland",
+        "cname": "瑞士",
+        "code": "41",
+        "phonelen": 9,
+        "segments": "75-79",
+        "note": "2/3/4/5/6开头是固话。"
+    },
+    {
+        "name": "Taiwan",
+        "cname": "中国台湾",
+        "code": "886",
+        "phonelen": 9,
+        "segments": "9",
+        "note": "2-8开头是固话。"
+    },
+    {
+        "name": "Tajikistan",
+        "cname": "塔吉克斯坦",
+        "code": "992",
+        "phonelen": 9,
+        "segments": "91-93、95",
+        "note": "3开头是固话。"
+    },
+    {
+        "name": "Tanzania",
+        "cname": "坦桑尼亚",
+        "code": "255",
+        "phonelen": 9,
+        "segments": "62-68、71、73-79",
+        "note": "41开头是虚拟号。2开头是固话。"
+    },
+    {
+        "name": "Thailand",
+        "cname": "泰国",
+        "code": "66",
+        "phonelen": 9,
+        "segments": "61-63、65、800-806、810-819、82-99",
+        "note": "60/68是虚拟号。"
+    },
+    {
+        "name": "Timor-Leste",
+        "cname": "东帝汶",
+        "code": "670",
+        "phonelen": 8,
+        "segments": "72-78",
+        "note": "2/3/4开头是固话，固话是7位数。71开头是语音邮箱，79开头是寻呼。"
+    },
+    {
+        "name": "Togo",
+        "cname": "多哥",
+        "code": "228",
+        "phonelen": 8,
+        "segments": "70、79、90-93、96-99",
+        "note": "2开头是固话。"
+    },
+    {
+        "name": "Tonga",
+        "cname": "汤加",
+        "code": "676",
+        "phonelen": 7,
+        "segments": "7、84、87-89",
+        "note": "固话是5位数。"
+    },
+    {
+        "name": "Trinidad and Tobago",
+        "cname": "特立尼达和多巴哥",
+        "code": "1868",
+        "phonelen": 7,
+        "segments": "271-299、301-310、312-399、460-469、470-484、490-499、620、678、680-689、710、712-799",
+        "note": "-"
+    },
+    {
+        "name": "Tunisia",
+        "cname": "突尼斯",
+        "code": "216",
+        "phonelen": 8,
+        "segments": "2、40-42、44、5、9",
+        "note": "43/45开头是虚拟号。7开头是固话。"
+    },
+    {
+        "name": "Turkey",
+        "cname": "土耳其",
+        "code": "90",
+        "phonelen": 10,
+        "segments": "501、505-507、510、516、524、53、54、551-555、559",
+        "note": "-"
+    },
+    {
+        "name": "Turkmenistan",
+        "cname": "土库曼斯坦",
+        "code": "993",
+        "phonelen": 8,
+        "segments": "60、61-65",
+        "note": "-"
+    },
+    {
+        "name": "Turks and Caicos Islands",
+        "cname": "特克斯和凯科斯群岛",
+        "code": "1649",
+        "phonelen": 7,
+        "segments": "239、3、431-433、441-443",
+        "note": "-"
+    },
+    {
+        "name": "Uganda",
+        "cname": "乌干达",
+        "code": "256",
+        "phonelen": 9,
+        "segments": "70-71、720、723、7260、730、7330-7332、736、74-75、770-789、79",
+        "note": "2/3/4开头是固话。"
+    },
+    {
+        "name": "Ukraine",
+        "cname": "乌克兰",
+        "code": "380",
+        "phonelen": 9,
+        "segments": "50、63、66-68、73、891-895、897、899、91-99",
+        "note": "-"
+    },
+    {
+        "name": "United Arab Emirates",
+        "cname": "阿拉伯联合酋长国",
+        "code": "971",
+        "phonelen": 9,
+        "segments": "50、52、55-56",
+        "note": "2/3/4/6/7/9开头是固话。"
+    },
+    {
+        "name": "United Kingdom",
+        "cname": "英国",
+        "code": "44",
+        "phonelen": 10,
+        "segments": "7",
+        "note": "-"
+    },
+    {
+        "name": "United States",
+        "cname": "美国",
+        "code": "1",
+        "phonelen": 10,
+        "segments": "固话和手机号规则一样。",
+        "note": "-"
+    },
+    {
+        "name": "Uruguay",
+        "cname": "乌拉圭",
+        "code": "598",
+        "phonelen": 8,
+        "segments": "91-99",
+        "note": "2/4开头是固话。"
+    },
+    {
+        "name": "Uzbekistan",
+        "cname": "乌兹别克斯坦",
+        "code": "998",
+        "phonelen": 9,
+        "segments": "90-93、97-99",
+        "note": "-"
+    },
+    {
+        "name": "Vanuatu",
+        "cname": "瓦努阿图",
+        "code": "678",
+        "phonelen": 7,
+        "segments": "5、7",
+        "note": "固话是5位数。"
+    },
+    {
+        "name": "Venezuela",
+        "cname": "委内瑞拉",
+        "code": "58",
+        "phonelen": 10,
+        "segments": "412、414-418、424、426",
+        "note": "2开头是固话。"
+    },
+    {
+        "name": "Vietnam",
+        "cname": "越南",
+        "code": "84",
+        "phonelen": 9,
+        "segments": "3、5、7、81-88、90-99",
+        "note": "2开头是固话。"
+    },
+    {
+        "name": "Virgin Islands, British",
+        "cname": "英属维尔京群岛",
+        "code": "1284",
+        "phonelen": 7,
+        "segments": "300-303、340-347、368、440-445、4966-4969、499、5",
+        "note": "-"
+    },
+    {
+        "name": "Virgin Islands, US",
+        "cname": "美属维尔京群岛",
+        "code": "1340",
+        "phonelen": 7,
+        "segments": "201、212、220、226-228、244、332、344、422、474、513-514、626、642-643、677",
+        "note": "-"
+    },
+    {
+        "name": "Yemen",
+        "cname": "也门",
+        "code": "967",
+        "phonelen": 9,
+        "segments": "70-71、73、77",
+        "note": "固话是7位数。"
+    },
+    {
+        "name": "Zambia",
+        "cname": "赞比亚",
+        "code": "260",
+        "phonelen": 9,
+        "segments": "955、966、977-979",
+        "note": "2开头是固话。"
+    },
+    {
+        "name": "Zimbabwe",
+        "cname": "津巴布韦",
+        "code": "263",
+        "phonelen": 9,
+        "segments": "71、73、77-78",
+        "note": "8开头是虚拟号。"
+    }
+]
