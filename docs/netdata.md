@@ -112,6 +112,7 @@ B节点配置完成并重启，http://192.168.146.4:19999/ 就不再显示监控
 ```sh
 vi /etc/netdata/netdata.conf
 ```
+47.253.35.70
 
 ```toml
 [global]
