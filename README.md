@@ -6,4 +6,6 @@ note
 
 | 名称 | 说明|
 | --- | ---- |
-| [日志自动拆分](docs/logsplit.md) |  使用提供的调度方案，按照一定周期进行对历史日志进行压缩备份 |
+| [日志自动拆分](docs/logsplit.md)                      |  使用提供的调度方案，按照一定周期进行对历史日志进行压缩备份 |
+| [Systemctl 服务脚本](docs/systemctlserverscript.md)   |  liunx 增加服务命令 |
+| [系统监控服务NetData部署](docs/netdata.md)            | 搭建NetData 监控集群服务  |
