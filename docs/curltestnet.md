@@ -33,13 +33,13 @@ curl 命令提供了 -w 参数，这个参数在 manpage 是这样解释的：
 
 **值说明：**
 
-> time_namelookup：DNS 域名解析的时候，就是把 https://moguf.com 转换成 ip   
-> time_connect：TCP 连接建立的时间，就是三次握手的时间  
-> time_appconnect：SSL/SSH 等上层协议建立连接的时间，比如 connect/handshake 的时间  
-> time_redirect：从开始到最后一个请求事务的时间  
-> time_pretransfer：从请求开始到响应开始传输的时间  
-> time_starttransfer：从请求开始到第一个字节将要传输的时间  
-> time_total：本次请求花费的全部时间  
+> **time_namelookup**： DNS 域名解析的时候，就是把 https://moguf.com 转换成 ip   
+> **time_connect**：TCP 连接建立的时间，就是三次握手的时间  
+> **time_appconnect**：SSL/SSH 等上层协议建立连接的时间，比如 connect/handshake 的时间  
+> **time_redirect**：从开始到最后一个请求事务的时间  
+> **time_pretransfer**：从请求开始到响应开始传输的时间  
+> **time_starttransfer**：从请求开始到第一个字节将要传输的时间  
+> **time_total**：本次请求花费的全部时间  
 
 我们先看看一个简单的请求，没有重定向，也没有 SSL 协议的时间：
 
