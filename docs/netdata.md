@@ -18,7 +18,7 @@
 wget -O /tmp/netdata-kickstart.sh https://my-netdata.io/kickstart.sh && sh /tmp/netdata-kickstart.sh
 ```
 
-### 启动
+### 打开监控面板 
 
 安装完成后打开 http://192.168.146.4:19999/
 
@@ -96,6 +96,8 @@ vim /etc/netdata/stream.conf
 
 > 注：api key 是个UUID，找个工具生成一个`11111111-2222-3333-4444-555555555555`格式ID
 
+
+
 B节点配置完成并重启，http://192.168.146.4:19999/ 就不再显示监控信息。
 
 ![](netdata/2023-01-13-16-24-00.png)
@@ -142,6 +144,8 @@ vim /etc/netdata/stream.conf
     health enabled by default = auto
     allow from = *
 ```
+
+
 
 同样配置完成重启服务
 
