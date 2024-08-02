@@ -7,7 +7,7 @@
 
 ## 需要个压缩日志脚本 
 
-创建 `logbak.sh`, 备份 nohup 产生的日志 `sample.log` 
+创建 `logbak.sh`, 备份 `nohup` 产生的日志 `sample.log` 
 
 ```sh
 #!/bin/bash
@@ -33,7 +33,7 @@ crontab -e
 ```
 
 
-重启 crontab服务
+重启 `crontab`服务
 
 ```
 service cron restart

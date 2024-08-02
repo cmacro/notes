@@ -43,18 +43,22 @@ Showing top 10 nodes out of 38
 ```
 
 
-
-
 web 可视化
 
-
+```sh
 go tool pprof -http=":8080" http://localhost:6060/debug/pprof/profile
+```
+
 
 
 显示测试
+
+```sh
 hey -n 1000 http://localhost:6060/pprof-test
+```
 
-
+```sh
 go tool pprof http://localhost:6060/debug/pprof/profile?seconds=120
 
 go tool pprof -http=":8080" http://localhost:6060/debug/pprof/profile
+```

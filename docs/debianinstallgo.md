@@ -7,7 +7,7 @@ Go是Google创建的一种现代开源编程语言，用于构建可靠，简单
 
 ## 下载版本
 
-wget https://go.dev/dl/go1.19.2.linux-amd64.tar.gz
+`wget https://go.dev/dl/go1.19.2.linux-amd64.tar.gz`
 
 > 官网：
 > https://go.dev/dl/
@@ -15,12 +15,14 @@ wget https://go.dev/dl/go1.19.2.linux-amd64.tar.gz
 
 解压到 /usr/local/ 目录下
 
+```sh
 sudo tar -zxvf go1.19.2.linux-amd64.tar.gz -C /usr/local/
+```
 
 步骤 3. 设置 Go 环境
 
 
-现在我们配置 ${PATH} 包含 Go 的 bin 目录的环境变量 /usr/loca/go/bin：
+现在我们配置 `${PATH}` 包含 Go 的 bin 目录的环境变量 `/usr/loca/go/bin：`
 
 ```sh
 echo "export PATH=/usr/local/go/bin:${PATH}" | sudo tee /etc/profile.d/go.sh

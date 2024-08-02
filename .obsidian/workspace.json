@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "docs/netdata.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "docs/netdata.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "docs/netdata.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "docs/netdata.md"
               }
             }
           }
@@ -148,21 +148,22 @@
   },
   "active": "dac1db6afa94f920",
   "lastOpenFiles": [
+    "docs/logsplit.md",
+    "docs/gorestapiclientalive.md",
+    "docs/gopprof.md",
     "docs/gitclearaccess.md",
     "docs/dockeropenwrt.md",
-    "docs/curltestnet.md",
-    "docs/logsplit.md",
-    "docs/vbox.md",
-    "README.md",
-    "Untitled.canvas",
     "docs/debianinstallgo.md",
+    "docs/curltestnet.md",
+    "README.md",
+    "docs/vbox.md",
+    "Untitled.canvas",
     "docs/openwrt/2022-08-05-13-20-37.png",
     "docs/netdata/2023-01-13-16-44-03.png",
     "docs/netdata/2023-01-13-16-24-00.png",
     "docs/netdata/2023-01-13-11-49-34.png",
     "docs/gopprof/2023-05-06-14-31-55.png",
     "data/readme.md",
-    "docs/gorestapiclientalive.md",
     "docs/systemctlserverscript.md",
     "docs/readme.md",
     "docs/netdata.md",
