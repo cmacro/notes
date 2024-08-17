@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/netdata.md",
+                "file": "docs/vbox.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cf1565539e65b9aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Grafana 重置 admin 密码.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/netdata.md",
+                "file": "docs/Grafana 重置 admin 密码.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/netdata.md",
+                "file": "docs/Grafana 重置 admin 密码.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/netdata.md"
+                "file": "docs/Grafana 重置 admin 密码.md"
               }
             }
           }
@@ -146,28 +159,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dac1db6afa94f920",
+  "active": "cf1565539e65b9aa",
   "lastOpenFiles": [
-    "docs/logsplit.md",
-    "docs/gorestapiclientalive.md",
+    "docs/curl 速率测试.md",
+    "docs/Grafana 重置 admin 密码.md",
     "docs/gopprof.md",
-    "docs/gitclearaccess.md",
-    "docs/dockeropenwrt.md",
     "docs/debianinstallgo.md",
+    "docs/vbox.md",
+    "docs/influxdbconn.md",
+    "docs/openwrt.md",
+    "docs/gorestapiclientalive.md",
+    "docs/systemctlserverscript.md",
+    "docs/influxdbconn/Pasted image 20240807103328.png",
+    "docs/influxdbconn/Pasted image 20240807103116.png",
+    "docs/netdata.md",
+    "docs/logsplit.md",
+    "docs/openwrt/2022-08-05-13-20-37.png",
+    "docs/openwrt/2022-08-25-10-05-38.png",
+    "docs/dockeropenwrt.md",
     "docs/curltestnet.md",
     "README.md",
-    "docs/vbox.md",
+    "other/清除dns.md",
+    "other/anki.md",
+    "docs/influxdbconn",
+    "docs/gitclearaccess.md",
+    "data/readme.md",
+    "docs/readme.md",
     "Untitled.canvas",
-    "docs/openwrt/2022-08-05-13-20-37.png",
     "docs/netdata/2023-01-13-16-44-03.png",
     "docs/netdata/2023-01-13-16-24-00.png",
     "docs/netdata/2023-01-13-11-49-34.png",
-    "docs/gopprof/2023-05-06-14-31-55.png",
-    "data/readme.md",
-    "docs/systemctlserverscript.md",
-    "docs/readme.md",
-    "docs/netdata.md",
-    "docs/openwrt.md",
-    "other/anki.md"
+    "docs/gopprof/2023-05-06-14-31-55.png"
   ]
 }
