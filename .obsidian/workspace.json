@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Grafana 重置 admin 密码.md",
+                "file": "other/清除dns.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Grafana 重置 admin 密码.md",
+                "file": "other/清除dns.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Grafana 重置 admin 密码.md",
+                "file": "other/清除dns.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Grafana 重置 admin 密码.md"
+                "file": "other/清除dns.md"
               }
             }
           }
@@ -161,8 +161,9 @@
   },
   "active": "cf1565539e65b9aa",
   "lastOpenFiles": [
-    "docs/curl 速率测试.md",
+    "other/anki.md",
     "docs/Grafana 重置 admin 密码.md",
+    "docs/curl 速率测试.md",
     "docs/gopprof.md",
     "docs/debianinstallgo.md",
     "docs/vbox.md",
@@ -180,7 +181,6 @@
     "docs/curltestnet.md",
     "README.md",
     "other/清除dns.md",
-    "other/anki.md",
     "docs/influxdbconn",
     "docs/gitclearaccess.md",
     "data/readme.md",
