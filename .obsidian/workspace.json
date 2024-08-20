@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "other/清除dns.md",
+                "file": "docs/NeoVim Install.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Noevim",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "other/清除dns.md",
+                "file": "docs/NeoVim Install.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "other/清除dns.md",
+                "file": "docs/NeoVim Install.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "other/清除dns.md"
+                "file": "docs/NeoVim Install.md"
               }
             }
           }
@@ -161,30 +162,34 @@
   },
   "active": "cf1565539e65b9aa",
   "lastOpenFiles": [
-    "other/anki.md",
+    "docs/vbox.md",
+    "docs/systemctlserverscript.md",
+    "docs/readme.md",
+    "docs/openwrt.md",
+    "docs/netdata.md",
+    "docs/NeoVim Install.md",
+    "docs/influxdbconn.md",
     "docs/Grafana 重置 admin 密码.md",
     "docs/curl 速率测试.md",
-    "docs/gopprof.md",
+    "docs/curltestnet.md",
     "docs/debianinstallgo.md",
-    "docs/vbox.md",
-    "docs/influxdbconn.md",
-    "docs/openwrt.md",
+    "docs/dockeropenwrt.md",
+    "docs/gitclearaccess.md",
+    "docs/gopprof.md",
     "docs/gorestapiclientalive.md",
-    "docs/systemctlserverscript.md",
-    "docs/influxdbconn/Pasted image 20240807103328.png",
-    "docs/influxdbconn/Pasted image 20240807103116.png",
-    "docs/netdata.md",
     "docs/logsplit.md",
+    "docs/Mac 右击快速打开iterm.md",
+    "other/anki.md",
+    "other/清除dns.md",
+    "docs/maciterm/Pasted image 20240817175714.png",
+    "docs/maciterm",
+    "data/readme.md",
     "docs/openwrt/2022-08-05-13-20-37.png",
     "docs/openwrt/2022-08-25-10-05-38.png",
-    "docs/dockeropenwrt.md",
-    "docs/curltestnet.md",
     "README.md",
-    "other/清除dns.md",
+    "docs/influxdbconn/Pasted image 20240807103328.png",
+    "docs/influxdbconn/Pasted image 20240807103116.png",
     "docs/influxdbconn",
-    "docs/gitclearaccess.md",
-    "data/readme.md",
-    "docs/readme.md",
     "Untitled.canvas",
     "docs/netdata/2023-01-13-16-44-03.png",
     "docs/netdata/2023-01-13-16-24-00.png",
