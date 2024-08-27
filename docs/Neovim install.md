@@ -1,6 +1,13 @@
 # Noevim Install
 
 
+> note: 实用技巧 https://xu3352.github.io/linux/2018/10/16/practical-vim-skills
+
+`https://xu3352.github.io/practical_vim`
+
+
+
+
 ```bash
 brew install nvim
 mv ~/.config/nvim ~/.config/nvim.backup
