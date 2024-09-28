@@ -1,5 +1,9 @@
 # RustDesk部署
 
+doc
+https://rustdesk.com/docs/zh-cn/self-host/rustdesk-server-oss/install/
+
+
 现在，我们就可以进行RustDesk的部署。如果你不是使用创建的用户进行登录，那么你可以使用`su`命令进行切换：
 
 |   |   |
