@@ -13,19 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/vbox.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "cf1565539e65b9aa",
+            "id": "228cd8bb6cdc69fd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Neovim install.md",
+                "file": "docs/RustDesk部署.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 298.5
   },
   "right": {
     "id": "a6af89d63bd0e43a",
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Neovim install.md",
+                "file": "docs/RustDesk部署.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Neovim install.md",
+                "file": "docs/RustDesk部署.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,16 +138,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Neovim install.md"
+                "file": "docs/RustDesk部署.md"
               }
             }
+          },
+          {
+            "id": "d3ff5b69330ad0cf",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,30 +167,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cf1565539e65b9aa",
+  "active": "228cd8bb6cdc69fd",
   "lastOpenFiles": [
-    "docs/Mac 右击快速打开iterm.md",
+    "docs/xray代理搭建.md",
+    "docs/RustDesk部署.md",
+    "Pasted image 20240928181538.png",
+    "docs/Grafana 重置 admin 密码.md",
+    "Untitled.md",
+    "README.md",
     "docs/Neovim install.md",
-    "docs/maciterm/Pasted image 20240817175714.png",
+    "Pasted image 20240828212625.png",
+    "docs/influxdbconn.md",
+    "docs/nviminstall/Pasted image 20240828211844.png",
+    "docs/nviminstall/Pasted image 20240828210545.png",
+    "docs/nviminstall",
+    "docs/Mac 右击快速打开iterm.md",
+    "docs/logsplit.md",
     "docs/netdata.md",
+    "docs/vbox.md",
+    "docs/maciterm/Pasted image 20240817175714.png",
     "docs/maciterm",
     "other/anki.md",
     "other/清除dns.md",
-    "docs/vbox.md",
     "docs/readme.md",
-    "docs/logsplit.md",
     "docs/gorestapiclientalive.md",
     "docs/dockeropenwrt.md",
     "docs/debianinstallgo.md",
     "docs/curl 速率测试.md",
     "data/readme.md",
-    "docs/Grafana 重置 admin 密码.md",
     "docs/openwrt/2022-08-05-13-20-37.png",
     "docs/openwrt/2022-08-25-10-05-38.png",
     "docs/curltestnet.md",
-    "README.md",
     "docs/gopprof.md",
-    "docs/influxdbconn.md",
     "docs/openwrt.md",
     "docs/systemctlserverscript.md",
     "docs/influxdbconn/Pasted image 20240807103328.png",
@@ -190,9 +206,6 @@
     "docs/influxdbconn",
     "docs/gitclearaccess.md",
     "Untitled.canvas",
-    "docs/netdata/2023-01-13-16-44-03.png",
-    "docs/netdata/2023-01-13-16-24-00.png",
-    "docs/netdata/2023-01-13-11-49-34.png",
-    "docs/gopprof/2023-05-06-14-31-55.png"
+    "docs/netdata/2023-01-13-16-44-03.png"
   ]
 }
