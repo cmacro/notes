@@ -13,25 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/vbox.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "cf1565539e65b9aa",
+            "id": "228cd8bb6cdc69fd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/RustDesk部署.md",
+                "file": "proxy/openwrt编译.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -60,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Noevim",
+                "query": "tag:#自己编译openwrt版本",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -97,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/RustDesk部署.md",
+                "file": "proxy/openwrt编译.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/RustDesk部署.md",
+                "file": "proxy/openwrt编译.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/RustDesk部署.md"
+                "file": "proxy/openwrt编译.md"
               }
             }
           },
@@ -168,49 +170,43 @@
   },
   "active": "228cd8bb6cdc69fd",
   "lastOpenFiles": [
-    "docs/xray代理搭建.md",
-    "docs/RustDesk部署.md",
+    "whatsmeow.md",
+    "dev/JS Test.md",
+    "dev",
+    "docs/Neovim install.md",
+    "proxy/openwrt编译.md",
+    "proxy",
     "Pasted image 20240928181538.png",
+    "Pasted image 20240828212625.png",
+    "docs/xray代理搭建.md",
+    "docs/vbox.md",
+    "docs/netdata.md",
+    "docs/openwrt.md",
+    "docs/readme.md",
+    "docs/RustDesk部署.md",
+    "docs/systemctlserverscript.md",
     "docs/Grafana 重置 admin 密码.md",
     "Untitled.md",
     "README.md",
-    "docs/Neovim install.md",
-    "Pasted image 20240828212625.png",
     "docs/influxdbconn.md",
     "docs/nviminstall/Pasted image 20240828211844.png",
     "docs/nviminstall/Pasted image 20240828210545.png",
     "docs/nviminstall",
     "docs/Mac 右击快速打开iterm.md",
     "docs/logsplit.md",
-    "docs/netdata.md",
-    "docs/vbox.md",
     "docs/maciterm/Pasted image 20240817175714.png",
     "docs/maciterm",
     "other/anki.md",
     "other/清除dns.md",
-    "docs/readme.md",
     "docs/gorestapiclientalive.md",
-    "docs/gitclearaccess.md",
-    "docs/debianinstallgo.md",
-    "docs/Mac 右击快速打开iterm.md",
-    "docs/Grafana 重置 admin 密码.md",
-    "README.md",
-    "docs/nviminstall/Pasted image 20240821101809.png",
-    "docs/nviminstall",
-    "docs/readme.md",
-    "docs/NeoVim Install.md",
-    "docs/curl 速率测试.md",
-    "docs/curltestnet.md",
     "docs/dockeropenwrt.md",
-    "docs/maciterm/Pasted image 20240817175714.png",
-    "docs/maciterm",
+    "docs/debianinstallgo.md",
+    "docs/curl 速率测试.md",
     "data/readme.md",
     "docs/openwrt/2022-08-05-13-20-37.png",
     "docs/openwrt/2022-08-25-10-05-38.png",
     "docs/curltestnet.md",
     "docs/gopprof.md",
-    "docs/openwrt.md",
-    "docs/systemctlserverscript.md",
     "docs/influxdbconn/Pasted image 20240807103328.png",
     "docs/influxdbconn/Pasted image 20240807103116.png",
     "docs/influxdbconn",
