@@ -12,6 +12,8 @@
 ImmortalWrt构建:
 [https://firmware-selector.immortalwrt.org](https://firmware-selector.immortalwrt.org/)
 
+[v2raya](https://mirror-03.infra.openwrt.org/releases/packages-23.05/x86_64/packages/v2raya_2.2.5.7-1_x86_64.ipk)
+
 
 软件包名称查询：  
 [https://mirror-03.infra.openwrt.org/releases/](https://mirror-03.infra.openwrt.org/releases/)  
@@ -92,3 +94,100 @@ cd /home/…..
 sudo ./docker-build.sh
 
 输入普通用户密码
+
+
+```
+config interface 'loopback'
+        option device 'lo'
+        option proto 'static'
+        option ipaddr '127.0.0.1'
+        option netmask '255.0.0.0'
+
+config globals 'globals'
+        option ula_prefix 'fd99:b7fe:f39b::/48'
+        option packet_steering '1'
+
+config device
+        option name 'br-lan'
+        option type 'bridge'
+        list ports 'eth0'
+
+config interface 'lan'
+        option device 'br-lan'
+        option proto 'static'
+        option ipaddr '192.168.0.178'
+        option netmask '255.255.255.0'
+        option ip6assign '60'
+
+config interface 'wan'
+        option device 'eth1'
+        option proto 'dhcp'
+
+config interface 'wan6'
+        option device 'eth1'
+        option proto 'dhcpv6'
+```
+
+![[Screenshot 2024-11-09 at 21.38.59.png]]
+
+
+
+安装argo主题包，完成后刷新就能变回熟悉的感觉
+
+![[Pasted image 20241109214031.png]]
+
+
+安装网页版terminal  ttyd
+
+![[Pasted image 20241109214301.png]]
+
+R5S 备份 network
+
+TF卡启动直接使用[balenaEtcher](https://github.com/balena-io/etcher/releases)等工具写入OpenWrt固件至TF卡中即可, 如果EMMC中已有系统, 则设备会优先从EMMC中启动, 要改为默认从TF卡启动, 请从EMMC启动后使用以下命令清除eMMC上的 Loader
+
+`dd if=/dev/zero of=/dev/mmcblk1p1 bs=8M count=25   dd if=/dev/zero of=/dev/mmcblk2 bs=8M count=25`
+
+
+```bash
+root@OpenWrt:~# cat /etc/config/network
+
+config interface 'loopback'
+	option ifname 'lo'
+	option proto 'static'
+	option ipaddr '127.0.0.1'
+	option netmask '255.0.0.0'
+
+config globals 'globals'
+	option packet_steering '0'
+	option ula_prefix 'fd07:0ca4:d7f6::/48'
+
+config interface 'lan'
+	option type 'bridge'
+	option ifname 'eth1 eth2'
+	option proto 'static'
+	option netmask '255.255.255.0'
+	option ip6assign '60'
+	option ipaddr '192.168.0.201'
+	option gateway '192.168.0.1'
+	option dns '192.168.0.1'
+
+config interface 'wan'
+	option ifname 'eth0'
+	option proto 'dhcp'
+
+config interface 'wan6'
+	option ifname 'eth0'
+	option proto 'dhcpv6'
+
+config interface 'vpn0'
+	option ifname 'tun0'
+	option proto 'none'
+
+config interface 'ipsec_server'
+	option ifname 'ipsec0'
+	option device 'ipsec0'
+	option proto 'static'
+	option ipaddr '192.168.100.1'
+	option netmask '255.255.255.0
+
+```
